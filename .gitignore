@@ -1,0 +1,4 @@
+*.pyc
+wp-content
+cache
+output

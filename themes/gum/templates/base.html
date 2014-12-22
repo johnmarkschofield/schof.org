@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+        {% block head %}
+
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+        {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+        {% endif %}
+        {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+        {% endif %}
+        {% if FEED_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+        {% endif %}
+        {% if FEED_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_ATOM and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_RSS and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+        {% endif %}
+        {% if TAG_FEED_ATOM and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+        {% endif %}
+        {% if TAG_FEED_RSS and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+        {% endif %}
+
+
+        <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+        <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
+
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/gumby.css" />
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/style.css" />
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/pygment.css" />
+
+        <script src="{{ SITEURL }}/theme/js/libs/modernizr-2.6.2.min.js"></script>
+
+
+        {% endblock head %}
+</head>
+
+<body id="index" class="home">
+
+
+    <div class="container">
+
+        <div class="row">
+
+          <header id="banner" class="body">
+                  <h1><a href="{{ SITEURL }}/">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
+          </header><!-- /#banner -->
+
+            <div id="navigation" class="navbar row">
+              <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
+              <ul class="columns">
+              {% for p in PAGES %}
+                {% if p.topmenu == "True" %}
+                    <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                {% endif %}
+              {% endfor %}          
+
+              </ul>
+            </div>
+
+          {% block content %}
+
+          {% endblock %}
+
+       </div><!-- /.row -->
+    </div><!-- /.container -->
+
+
+       <div class="container.nopad bg">
+
+    
+        <footer id="credits" class="row">
+          <div class="seven columns left-center">
+
+                  <address id="about" class="vcard body">
+                    Powered by <a href="http://getpelican.com/" target="_blank">Pelican</a>. This site uses a modified version of the <a href="https://github.com/getpelican/pelican-themes/tree/master/gum" target="_blank">Gum</a> theme, which is based on the <a target="_blank" href="http://gumbyframework.com" target="_blank">Gumby Framework</a>.<br /><br />
+                    All contents of this site (unless otherwise stated) are Copyright (c)
+                    {% if articles[0] -%}
+                      {%- if articles[0].date.year == articles[-1].date.year -%}
+                        {{ CURRENT_YEAR }}
+                      {%- else -%}
+                        {{ articles[-1].date.year }}-{{ CURRENT_YEAR }}
+                      {%- endif -%}
+                    {%- else -%}
+                      {{ CURRENT_YEAR }}
+                    {%- endif %}
+                    John Mark Schofield. All rights reserved.
+                  </address>
+          </div>
+
+
+          <div class="seven columns">
+            <div class="row">
+              <ul class="socbtns">
+
+                <li><div class="btn primary"><a href="https://github.com/johnmarkschofield/schof.org" target="_blank">Schof.org on Github</a></div></li>
+                <li><div class="btn secondary"><a href="/privacy-policy/" target="_blank">Privacy Policy</a></div></li>
+              </ul>
+            </div>
+          </div>
+        </footer>
+
+    </div>
+
+
+{% include 'disqus_script.html' %}
+{% include 'piwik.html' %}
+  <script src="{{ SITEURL }}/theme/js/libs/jquery-1.9.1.min.js"></script>
+  <script src="{{ SITEURL }}/theme/js/libs/gumby.min.js"></script>
+  <script src="{{ SITEURL }}/theme/js/plugins.js"></script>
+</body>
+</html>
