@@ -29,4 +29,4 @@ I'm also a writer, a poet, an amateur photographer, (putting "amateur"
 in front of "poet" is kind of redundant) an avid hiker, world traveler,
 student of Spanish and French, martial-arts and firearms enthusiast, and
 occasionally, a decent cook. You can [get in touch with me
-here.](/pages/contact.html "Contact John Mark Schofield")
+here.](/contact "Contact John Mark Schofield")

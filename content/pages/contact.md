@@ -6,7 +6,7 @@ TopMenu: True
 
 ## To see my work:
 
-* My code: <http://github.com/johnmarkschofield>
+* My code: <https://github.com/johnmarkschofield>
 * LinkedIn: <http://www.linkedin.com/in/schof>
 
 ## To contact me:

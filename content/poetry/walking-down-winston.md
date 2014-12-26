@@ -1,7 +1,6 @@
 Title: Walking Down Winston
 Date: 2001-12-20 00:00
 Author: schof
-Category: Poetry
 Tags: downtown los angeles, skid row
 Slug: walking-down-winston
 
