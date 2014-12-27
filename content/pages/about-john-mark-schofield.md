@@ -1,7 +1,5 @@
 Title: About
 Date: 2014-12-21 19:28
-Author: schof
-Slug: about-john-mark-schofield
 topmenu: True
 
 

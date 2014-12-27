@@ -7,7 +7,13 @@ AUTHOR = u'John Mark Schofield'
 SITENAME = u'schof.org'
 PATH = 'content'
 
-STATIC_PATHS = ['wp-content', 'media', 'non-media-assets', 'galleries']
+STATIC_PATHS = [
+    'wp-content',
+    'media',
+    'non-media-assets',
+    'galleries',
+    'images']
+
 READERS = {'html': None}
 
 TIMEZONE = 'America/Los_Angeles'
@@ -23,6 +29,18 @@ DISPLAY_PAGES_ON_MENU = True
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 
+TAG_URL = 'tag/{slug}'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+
+AUTHOR_URL = 'author/{slug}'
+AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+
+CATEGORY_URL = 'category/{slug}'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
 FEED_DOMAIN = 'http://schof.org/'
+
+SLUGIFY_SOURCE = "basename"

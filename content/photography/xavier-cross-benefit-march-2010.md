@@ -1,7 +1,5 @@
 Title: Xavier Cross Benefit, March 2010
 Date: 2010-03-06
-Author: schof
-Slug: xavier-cross-benefit-march-2010
 Tags: fire, circus, performance, nightclub, dance
 
 This is my third real exploration of both my renewed interest in
@@ -40,9 +38,9 @@ Ceci Castelblanco: 
 
 I love this shot of Ceci. Something about dark, painterly tones really gets
 me. I didn't get any shots of the fire performers that I really loved, but I like how
-the pose for one aerialist worked out. [He's hanging by a strap around
+the pose for one aerialist worked out. He's hanging by a strap around
 the back of his
-head:
+head!
 ![Aerialist at Xavier Cross Benefit](/galleries/xavier-cross-benefit/content/images/large/P1000789.jpg)
 
 All in all it was a blast, and I'm really glad I went. I hope there's an

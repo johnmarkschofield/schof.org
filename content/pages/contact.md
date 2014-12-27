@@ -1,7 +1,5 @@
 Title: Contact
 Date: 2005-03-23 10:23
-Author: schof
-Slug: contact
 TopMenu: True
 
 ## To see my work:

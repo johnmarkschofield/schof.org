@@ -1,7 +1,5 @@
 Title: Résumé
 Date: 2007-09-06 21:00
-Author: schof
-Slug: john-mark-schofield-resume
 TopMenu: True
 
 My resume is available in the following formats:

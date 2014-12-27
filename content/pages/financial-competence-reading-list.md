@@ -1,7 +1,5 @@
 Title: Financial Competence Reading List
 Date: 2013-01-17 19:17
-Author: schof
-Slug: financial-competence-reading-list
 
 Introduction
 ------------
