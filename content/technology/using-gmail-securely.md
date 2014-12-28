@@ -1,6 +1,6 @@
 Title: Using gMail Securely, Even on Wireless
 Date: 2007-08-04 23:48
-Tags: obsolete, security
+Tags: obsolete, data security
 
 If you see "http://" in the address bar for a website, that connection
 is unsecured. Anyone eavesdropping can access everything sent and
