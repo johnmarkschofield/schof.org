@@ -55,6 +55,7 @@ def serve():
 
 @hosts(production)
 def publish():
+    local('rm -rf output')
     local('pelican -s publishconf.py')
     # local('git commit -a && git push origin master')
     local(
