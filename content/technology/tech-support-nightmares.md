@@ -1,6 +1,6 @@
 Title: Tech Support Nightmares
 Date: 2003-11-09 19:48
-Tags: technical support, open source
+Tags: technical support
 
 As a computer consultant, I call tech support hotlines for a number of
 different commercial software and hardware products; almost universally

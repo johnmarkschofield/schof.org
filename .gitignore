@@ -3,3 +3,4 @@ wp-content
 cache
 output
 content/galleries/
+.DS_Store

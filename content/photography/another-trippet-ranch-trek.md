@@ -1,6 +1,6 @@
 Title: Another Trippet Ranch Trek
 Date: 2007-09-29 18:00
-Tags: Hiking, Topanga
+Tags: Topanga
 
 This morning I went on a five-mile hike with
 [George](http://www.flickr.com/photos/schof/1459902315/in/set-72157602202377606/)

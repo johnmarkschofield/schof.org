@@ -1,6 +1,6 @@
 Title: An Epiphany, and My Technical Goals
 Date: 2008-03-05 10:48
-Tags: Kernel, Linux, python, self-improvement, hiring
+Tags: management
 
 First, the epiphany -- despite all the fires, and multiple top
 priorities, and projects, and all the other fireballs of stress that

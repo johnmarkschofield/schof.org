@@ -1,31 +1,29 @@
-from fabric.api import *
+from fabric.api import *  # noqa
 import os
+import os.path
 import sys
 import SimpleHTTPServer
 import SocketServer
+import requests
 
-# Local path configuration (can be absolute or relative to fabfile)
-env.deploy_path = 'output'
-DEPLOY_PATH = env.deploy_path
-
-# Remote server configuration
-production = 'root@localhost:22'
-dest_path = '/var/www'
-
-# Rackspace Cloud Files configuration settings
-env.cloudfiles_username = 'my_rackspace_username'
-env.cloudfiles_api_key = 'my_rackspace_api_key'
-env.cloudfiles_container = 'my_cloudfiles_container'
+OUTPUT_DIR = "output"
+CACHE_DIR = "cache"
+LOCAL_HOST = "http://localhost:8000"
 
 
 def clean():
-    if os.path.isdir(DEPLOY_PATH):
-        local('rm -rf {deploy_path}'.format(**env))
-        local('mkdir {deploy_path}'.format(**env))
+    if os.path.isdir(OUTPUT_DIR):
+        local('rm -rf %s' % OUTPUT_DIR)
+        local('mkdir %s' % OUTPUT_DIR)
+
+    if os.path.isdir(CACHE_DIR):
+        local('rm -rf %s' % CACHE_DIR)
+        local('mkdir %s' % CACHE_DIR)
 
 
 def build():
-    local('pelican -d --ignore-cache -s localconf.py')
+    local('pelican-themes -s ~/code/schof/pelican-schof/themes/gum/')
+    local('pelican -s localconf.py')
 
 
 def rebuild():
@@ -38,7 +36,7 @@ def watch():
 
 
 def serve():
-    os.chdir(env.deploy_path)
+    os.chdir(OUTPUT_DIR)
 
     PORT = 8000
 
@@ -46,16 +44,15 @@ def serve():
         allow_reuse_address = True
 
     server = AddressReuseTCPServer(
-        ('', PORT),
+        ('127.0.0.1', PORT),
         SimpleHTTPServer.SimpleHTTPRequestHandler)
 
     sys.stderr.write('Serving on port {0} ...\n'.format(PORT))
     server.serve_forever()
 
 
-@hosts(production)
 def publish():
-    local('rm -rf output')
+    clean()
     local('pelican -s publishconf.py')
     # local('git commit -a && git push origin master')
     local(
@@ -71,3 +68,24 @@ def deploy():
 
 def pub():
     publish()
+
+
+def validate():
+    local('pelican --debug -s validateconf.py')
+
+
+def image():
+    # God this is so fragile and lame, but I'm only parsing HTML that I've
+    # generated myself from Lightroom so it should be OK.
+    image_page = prompt('What is the HTML page of the image? ')
+    img_page_nohost = image_page.replace(LOCAL_HOST, '')
+    image_page_html = requests.get(image_page)
+    if image_page_html.status_code != 200:
+        abort('Unable to download image page from localhost.')
+    for line in image_page_html.text.split('\n'):
+        if "<img src" in line:
+            image_url_fragment = line.split('<img src="')[1].strip('"')
+            break
+    image_url_nohost = '/'.join(img_page_nohost.split('/')[:-1]) + '/' + image_url_fragment  # noqa
+
+    print('[![](%s)](%s)' % (image_url_nohost, img_page_nohost))

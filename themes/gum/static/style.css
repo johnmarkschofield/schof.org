@@ -199,3 +199,7 @@ a:focus { color: #34495E; }
 @media only screen and (max-width: 600px) {
   #banner h1 a {font-size:22px!important; line-height:24px;}
 }
+
+
+/* List Fixes */
+.entry_content ul, entry_content li {list-style: disc outside none;}

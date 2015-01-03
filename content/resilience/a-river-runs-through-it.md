@@ -1,6 +1,6 @@
 Title: A River Runs Through It...
 Date: 2008-01-05 01:43
-Tags: flood, home maintenance, Topanga
+Tags: Topanga
 
 My mountain cabin / hippie shack is built into the side of Topanga
 Canyon. It's TOTALLY not-up-to-code. Tonight, in the middle of the

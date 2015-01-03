@@ -1,6 +1,5 @@
 Title: A Performance Poetry Manifesto
 Date: 2001-12-30 15:05
-Tags: performance
 
 1. There are no great performances without great audiences. A great
 performance is a collaboration between the speaker and the listener.

@@ -1,6 +1,6 @@
 Title: A Rough Weekend
 Date: 2008-01-28 10:38
-Tags: flood, home maintenance, Topanga
+Tags: Topanga
 
 I just feel the need to whine for a moment -- please indulge me. (Or
 skip to the next post.)

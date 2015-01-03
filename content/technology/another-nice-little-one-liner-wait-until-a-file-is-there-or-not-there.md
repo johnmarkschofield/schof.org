@@ -1,6 +1,6 @@
 Title: Another Nice Little One-Liner; Wait Until a File is There (or not There)
 Date: 2008-09-18 17:55
-Tags: bash, scripting, ssh, system administration
+Tags: command line
 
 This is the sort of thing that's second nature to a command-line geek,
 but I thought it was cool enough (in its little way) to share.

@@ -1,6 +1,6 @@
 Title: A funny thing happened on the way to the URL
 Date: 2005-03-06 08:40
-Tags: iraq, civilians, warfare, physical security, bodyguard, obsolete
+Tags: war, physical security, obsolete
 
 [Del.icio.us](http://del.icio.us/) is a hip, cutting-edge
 bookmark-handling service. It lets you share bookmarks with other people

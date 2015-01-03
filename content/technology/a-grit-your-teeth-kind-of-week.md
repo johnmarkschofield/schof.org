@@ -1,6 +1,6 @@
 Title: A Grit-Your-Teeth Kind of Week
 Date: 2005-11-11 21:22
-Tags: obsolete, system administration, linux, windows, backup software
+Tags: obsolete, backup software
 
 It was a grit-your-teeth kind of week.
 

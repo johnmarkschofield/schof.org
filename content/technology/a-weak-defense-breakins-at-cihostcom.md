@@ -1,6 +1,6 @@
 Title: A Weak Defense: Breakins at CIHost.com
 Date: 2007-11-07 18:58
-Tags: physical security, burglary, data security
+Tags: physical security, data security
 
 Here's a reason to think twice about your colocation provider:
 CIHost.com has been broken into four times over the past two

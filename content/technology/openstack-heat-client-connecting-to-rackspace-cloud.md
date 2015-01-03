@@ -1,6 +1,6 @@
 Title: OpenStack Heat Client & Connecting To Rackspace Cloud
 Date: 2014-09-19 14:09
-Tags: rackspace, openstack, heat, nova
+Tags: openstack
 
 This is primarily to help me remember, and to help anyone who finds this
 via Google.

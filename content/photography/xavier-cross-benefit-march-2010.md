@@ -1,6 +1,5 @@
 Title: Xavier Cross Benefit, March 2010
 Date: 2010-03-06
-Tags: fire, circus, performance, nightclub, dance
 
 This is my third real exploration of both my renewed interest in
 photography and my new camera, my Panasonic Lummix GF1.  I had a great
@@ -21,7 +20,7 @@ higher because I was concerned about graininess. I'll definitely have to
 experiment with higher-ISO shots to see if that gets me the higher
 shutter-speed I need without getting too grainy. Here's the first real
 example of the problem that I decided to keep: 
-![Sunny Soriano and partner doing aerial acrobatics](/galleries/xavier-cross-benefit/content/images/large/P1000545.jpg)
+[![Sunny Soriano and partner doing aerial acrobatics](/galleries/xavier-cross-benefit/content/images/large/P1000545.jpg)](/galleries/xavier-cross-benefit/content/P1000545_large.html)
 
 This one kills me. It's
 the beautiful and talented [Sunny Soriano](http://sunnysoriano.com/) and
@@ -34,14 +33,14 @@ There were about five artists painting live, doing works that were going
 to be raffled off at the benefit. (I didn't win anything.)   This is
 Ceci Castelblanco: 
 
-![Ceci Castelblanco painting on plywood](/galleries/xavier-cross-benefit/content/images/large/P1000640.jpg)
+[![Ceci Castelblanco painting on plywood](/galleries/xavier-cross-benefit/content/images/large/P1000640.jpg)](/galleries/xavier-cross-benefit/content/P1000640_large.html)
 
 I love this shot of Ceci. Something about dark, painterly tones really gets
 me. I didn't get any shots of the fire performers that I really loved, but I like how
 the pose for one aerialist worked out. He's hanging by a strap around
 the back of his
 head!
-![Aerialist at Xavier Cross Benefit](/galleries/xavier-cross-benefit/content/images/large/P1000789.jpg)
+[![Aerialist at Xavier Cross Benefit](/galleries/xavier-cross-benefit/content/images/large/P1000789.jpg)](/galleries/xavier-cross-benefit/content/P1000789_large.html)
 
 All in all it was a blast, and I'm really glad I went. I hope there's an
 equally interesting photography adventure this coming weekend!

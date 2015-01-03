@@ -1,0 +1,1 @@
+Sitemap: http://schof.org/sitemap.xml

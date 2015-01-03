@@ -1,6 +1,6 @@
 Title: A No-Gift Christmas
 Date: 2012-12-30 10:16
-Tags: saving, presents, gifts
+Tags: financial competence step 2
 
 My wife and I missed our savings goals this December, primarily because
 of Christmas Gifts. We're not proud of that -- and from now on, only

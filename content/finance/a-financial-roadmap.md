@@ -1,6 +1,6 @@
 Title: A Roadmap to Financial Competence
 Date: 2012-12-29 10:28
-Tags: financial competence step 1, financial competence step 2, financial competence step 3, financial competence step 4, financial competence step 5, financial competence step 6, investing, debt, saving
+Tags: financial competence step 1, financial competence step 2, financial competence step 3, financial competence step 4, financial competence step 5, financial competence step 6
 
 After getting married, I discovered a newfound interest in financial
 planning and financial matters in general. Prior to getting married, I

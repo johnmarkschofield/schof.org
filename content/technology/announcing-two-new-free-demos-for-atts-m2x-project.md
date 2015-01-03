@@ -1,9 +1,9 @@
 Title: Announcing Two New Free Demos for AT&T's M2X Project
 Date: 2014-04-02 10:33
-Tags: linux, unix, python, system administration
 
 I'm doing some work on demo projects for [AT&T's
-M2X](https://m2x.att.com).\* Prior to this there was example code, but
+M2X](https://m2x.att.com).[ref]I don't speak for AT&T or
+[Citrusbyte](https://citrusbyte.com/about-us).[/ref] Prior to this there was example code, but
 there wasn't a quick and easy way of getting a working example going.
 
 I've now created two new demos, with two hosting options:
@@ -40,7 +40,3 @@ There are [more demo
 languages](https://m2x.att.com/developer/client-libraries) and more demo
 environments coming, and I'll be announcing those here as they're
 published.
-
-\* I don't speak for AT&T or
-[Citrusbyte](https://citrusbyte.com/about-us).
-

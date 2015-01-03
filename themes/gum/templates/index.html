@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+<!-- index.html -->
 {% block content %}
 <section id="content">
 {% block content_title %}
@@ -13,31 +14,33 @@
                  <ol id="post-list">
                 {% for article in articles_page.object_list %}
                         <li><article class="hentry">
-                                <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+                                <header>
+                                    <h2 class="entry-title">
+                                        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags|e }}">{{ article.title|e }}</a>
+                                    </h2>
+                                </header>
                                 <footer class="post-info">
                                     <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </abbr>
                                     {% if article.authors %}
                                         <address class="vcard author">By 
                                             {% for author in article.authors|sort %}
-                                                <a class="url fn" href="{{ SITEURL }}/{{ author.url }}"> {{ author }}</a>
+                                                {{ author }}
                                             {% endfor %}
                                             {% if article.category %}
-                                              in <b>{{ article.category }}</b><br />
+                                              in <b><a href="/{{ article.category.url }}">{{ article.category.name | title }}</a></b><br/>
                                             {% endif %}
                                         </address>
                                     {% endif %}
                                 </footer><!-- /.post-info -->
-                                <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+                                <div class="entry-content">{{ article.summary }}</div><!-- /.entry-content -->
 
-                                <div class="medium primary btn"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">Read more <i class="icon-arrow-right"></i></a></div>
-
-
+                                <div class="medium primary btn"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags|e }}">Read more <i class="icon-arrow-right"></i></a></div>
 
                                 <div class="row tag-row">
                                     {% if article.tags %}
                                         <span>Tagged as: </span>
                                         {% for tag in article.tags %}
-                                            <a class="danger label" href="{{ SITEURL }}/{{ tag.url }}">{{ tag|e }}</a>
+                                            <a class="danger label" href="{{ SITEURL }}/{{ tag.url }}">{{ tag.name|e|title }}</a>
                                         {% endfor %}
                                     {% endif %}
                                 </div>

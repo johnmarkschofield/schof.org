@@ -1,6 +1,6 @@
 Title: Apple’s Migration Assistant
 Date: 2006-05-04 13:32
-Tags: apple, os x, system administration, obsolete
+Tags: os x, obsolete
 
 So I just upgraded my office computer from a dual-processor G5 to a new
 "Quad-Proc" ((Of course, it's not REALLY quad-processor. It's two

@@ -1,6 +1,6 @@
 Title: 50% of What You Know Becomes Obsolete Every 18 Months
 Date: 2003-11-07 17:56
-Tags: unix, programming, system administration
+Tags: programming
 
 As a guy who gets paid only because of his computer knowledge, the
 following paragraph is a bit of a comfort to me:

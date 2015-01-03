@@ -1,6 +1,6 @@
 Title: Air Quality Info from EPA
 Date: 2007-10-25 09:10
-Tags: fire, Malibu, Topanga, wildfire, air quality, polution
+Tags: Malibu, Topanga, fire
 
 Tipster Michelle E. sent in the following:
 
@@ -15,9 +15,9 @@ Tipster Michelle E. sent in the following:
 >     reports are based on data from local air quality monitors,
 >     recommending health precautions. Recent information is available
 >     at
->     [<u><font color="#0000ff">http://www.epa.gov</font></u>](http://www.epa.gov/)
+>     [http://www.epa.gov](http://www.epa.gov/)
 >     and
->     [<u><font color="#0000ff">www.airnow.gov</font></u>](http://www.airnow.gov/).
+>     [www.airnow.gov](http://www.airnow.gov/).
 > -   Use common sense. If it looks smoky outside, avoid physical
 >     outside activities and don't let your children play outdoors.
 > -   If you are advised to stay indoors, keep indoor air as clean as

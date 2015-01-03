@@ -1,65 +1,67 @@
 {% extends "base.html" %}
-{% block title %}{{ article.title|striptags }}{% endblock %}
+<!-- article.html -->
+
+{% block title %}
+  {{ article.title|striptags|e }}
+{% endblock %}
+
 {% block content %}
-<section id="content" class="body">
+  <section id="content" class="body">
 
-   <div class="row">
-        <div class="eleven columns">
+    <div class="row">
+      <div class="eleven columns">
+        <header>
+          <h2 class="entry-title">
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+            title="Permalink to {{ article.title|striptags|e }}">{{ article.title|e }}</a>
+          </h2>
+        </header>
 
+        <footer class="post-info">
+          <abbr class="published" title="{{ article.date.isoformat() }}">
+            {{ article.locale_date }}
+          </abbr>
 
-            <header>
-              <h2 class="entry-title">
-                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-                   title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
-           {% import 'translations.html' as translations with context %}
-           {{ translations.translations_for(article) }}
-            </header>
-            <footer class="post-info">
-              <abbr class="published" title="{{ article.date.isoformat() }}">
-                {{ article.locale_date }}
-              </abbr>
-              {% if article.authors %}
-              <address class="vcard author">By 
+          {% if article.authors %}
+            <address class="vcard author">By 
               {% for author in article.authors|sort %}
-                <a class="url fn" href="{{ SITEURL }}/{{ author.url }}"> {{ author }}</a>
+                {{ author }}
               {% endfor %}
+
               {% if category %}
-                  in <b>{{ category }}</b><br />
+                in <b><a href="/{{category.url}}">{{ category.name | title }}</a></b><br />
               {% endif %}
               <div class="row tag-row">
                 {% if article.tags %}
-                    <span>Tagged as: </span>
+                  <span>Tagged as: </span>
                     {% for tag in article.tags %}
-                        <a class="danger label" href="{{ SITEURL }}/{{ tag.url }}">{{ tag|e }}</a>
+                      <a class="danger label" href="{{ SITEURL }}/{{ tag.url }}">{{ tag.name|e|title }}</a>
                     {% endfor %}
-                    <br />
+                <br />
                 {% endif %}
-            </div>
+              </div>
 
-              </address>
-              {% endif %}
-            </footer><!-- /.post-info -->
-            <div class="entry-content">
+          </address>
 
-              {{ article.content }}
+        </footer><!-- /.post-info -->
 
-              {% if article.album %}
-                <h2><a href="{{ SITEURL }}/pages/gallery.html#{{ article.album }}">{{ article.album }}</a></h2>
-    <ul>
-    {% for image in article.galleryimages %}
-    <li><a class="{{ article.album }} cboxElement" href="{{ SITEURL }}/static/images/gallery/{{ article.album }}/{{ image }}"><img src="{{ SITEURL }}/static/images/gallery200x200/{{ article.album }}/{{ image }}"></a></li>
-    {% endfor %}
-    </ul>
-              {% endif %}
-            </div><!-- /.entry-content -->
-           
+        <div class="entry-content">
+          {{ article.content }}
+          <br />
+          <h4>Comment on This Article With Twitter:</h4>
+          <form method="get" id="search" action="https://twitter.com/intent/tweet">
+              <input type="hidden" name="text" maxlength="140" value=". @schof Regarding {{article.url}}, I think..."/>
+              <input type="submit" value="Write a Public Comment on Twitter"/>
+          </form>
 
+        {% endif %}
 
-        </div><!-- /.eleven.columns -->
+        </div><!-- /.entry-content -->
 
-     {% include 'sidebar.html' %}
- </div><!-- /.row -->
+      </div><!-- /.eleven.columns -->
 
+      {% include 'sidebar.html' %}
+    </div><!-- /.row -->
 
-</section>
+  </section>
 {% endblock %}

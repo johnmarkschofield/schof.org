@@ -1,6 +1,6 @@
 Title: Walking Down Winston
 Date: 2001-12-20 00:00
-Tags: downtown los angeles, los angeles, skid row, homelessness, culture
+Tags: los angeles
 
 Walking down Winston St. one night, Moses with the limp and the smoker's  
 cough saved my ass. Started walking next to me and introduced me to this  

@@ -1,6 +1,6 @@
 Title: A New Kind of Survivalism
 Date: 2012-05-25 19:04
-Tags: chickens, firearms, gardening, homestead, SHTF, Survivalism, survivalist, weapons
+Tags: firearms, gardening
 
 We're all familiar with the survivalist stereotype -- a [bearded guy
 with an underground

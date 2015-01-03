@@ -1,4 +1,4 @@
-Title: Response to "Mixed Night at Mia"
+Title: Response to 'Mixed Night at Mia'
 Date: 2002-01-08 07:02
 Tags: poetry review
 

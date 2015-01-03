@@ -1,6 +1,6 @@
 Title: Working at RackSpace
 Date: 2014-06-06 15:31
-Tags: biographical, employment
+Tags: autobiography
 
 I [previously announced
 this](https://twitter.com/schof/status/464903718618427393), but I
