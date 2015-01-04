@@ -61,6 +61,8 @@ def publish():
         's3cmd ' +
         '--check-md5 ' +
         '--delete-removed ' +
+        '--default-mime-type="text/html" ' +
+        '--guess-mime-type ' +
         'sync output/ s3://schof.org/')
 
 

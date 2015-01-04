@@ -24,34 +24,34 @@ THEME = 'gum'  # Clean, easy-to-read. Responsive. Good cat & tag support.
 DEFAULT_PAGINATION = 25
 
 PAGINATION_PATTERNS = (
-    (1, '{base_name}/', '{base_name}/index.html'),
-    (2, '{base_name}/page{number}/', '{base_name}/page{number}/index.html'))
+    (1, '{base_name}', '{base_name}'),
+    (2, '{base_name}/page{number}', '{base_name}/page{number}'))
 
 CURRENT_YEAR = datetime.now().year
 
 DISPLAY_PAGES_ON_MENU = True
 
 PAGE_URL = '{slug}'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_SAVE_AS = '{slug}'
 
 TAG_URL = 'tag/{slug}'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
+TAG_SAVE_AS = 'tag/{slug}'
 
-TAGS_SAVE_AS = 'tag/index.html'
+TAGS_SAVE_AS = 'tags'
 
 AUTHOR_URL = 'author/{slug}'
-AUTHOR_SAVE_AS = 'author/{slug}/index.html'
-AUTHORS_SAVE_AS = 'author/index.html'
+AUTHOR_SAVE_AS = 'author/{slug}'
+AUTHORS_SAVE_AS = 'authors'
 
 CATEGORY_URL = 'category/{slug}'
-CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+CATEGORY_SAVE_AS = 'category/{slug}'
 CATEGORIES_SAVE_AS = ''
 
-ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
-MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
-ARCHIVES_SAVE_AS = 'archives/index.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}'
+YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/all'
+MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/all'
+ARCHIVES_SAVE_AS = 'archives'
 
 FEED_DOMAIN = 'http://schof.org/'
 
