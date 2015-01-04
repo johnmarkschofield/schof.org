@@ -42,7 +42,7 @@ page](http://emergency.pepperdine.edu/)at 9:45 AM:
 > Canyon and Kanan Road. The Civic Center is a staging area for everyone
 > who has a hand in keeping us safe.
 
-[![](http://farm3.static.flickr.com/2152/1691782813_78867011e7.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1691782813/)
+[![Smoky day with parked fire trucks](http://farm3.static.flickr.com/2152/1691782813_78867011e7.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1691782813/)
 
 **Update 10:24 AM**: From [National Interagency Fire
 Center](http://www.nifc.gov/fire_info/nfn.htm):
@@ -60,7 +60,7 @@ Center](http://www.nifc.gov/fire_info/nfn.htm):
 > east of Carbon Canyon, though with high winds, all parts of the city
 > remain on alert. All schools here and in Topanga are closed.
 
-[![](http://farm3.static.flickr.com/2068/1691821741_4be2f5ebcd.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1691821741/)
+[![Burned-out car](http://farm3.static.flickr.com/2068/1691821741_4be2f5ebcd.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1691821741/)
 
 **Update 10:34 AM**: More news from
 [HereInMalibu](http://www.laobserved.com/malibu/):
