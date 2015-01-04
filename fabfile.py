@@ -53,13 +53,14 @@ def serve():
 
 def publish():
     clean()
+    local('git status | grep -q "nothing to commit, working directory clean"')
     local('pelican -s publishconf.py')
     # local('git commit -a && git push origin master')
     local(
         's3cmd ' +
         '--check-md5 ' +
         '--delete-removed ' +
-        'sync output/ s3://schofdotorg-pelican/')
+        'sync output/ s3://schof.org/')
 
 
 def deploy():

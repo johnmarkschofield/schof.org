@@ -156,9 +156,9 @@ based on the press conference above.
 **Update 1:19 PM:** Photos from earlier in the day from
 [HereInMalibu](http://www.laobserved.com/malibu/):
 
-[![](http://farm3.static.flickr.com/2331/1677492328_f387d8db4b.jpg)](http://www.flickr.com/photos/38952296@N00/1677492328/)
+[![Fire](http://farm3.static.flickr.com/2331/1677492328_f387d8db4b.jpg)](http://www.flickr.com/photos/38952296@N00/1677492328/)
 
-[![](http://farm3.static.flickr.com/2127/1674226689_49fd4c9def.jpg)](http://www.flickr.com/photos/38952296@N00/1674226689/)
+[![Fire](http://farm3.static.flickr.com/2127/1674226689_49fd4c9def.jpg)](http://www.flickr.com/photos/38952296@N00/1674226689/)
 
 **Update 1:27 PM**: From
 [emergency.pepperdine.edu](http://emergency.pepperdine.edu/):
@@ -185,7 +185,7 @@ coverage: <http://www.malibufires.org/> (Via
 
 **Update 1:50 PM**: MalibuFire.org's map of the fire:
 
-[![](http://www.latimes.com/media/graphic/2007-10/33371177.jpg)](http://www.malibufires.org/)
+[![An updated map](http://www.latimes.com/media/graphic/2007-10/33371177.jpg)](http://www.malibufires.org/)
 
 I've also been updating my [Google Map of fire progress and evacuations
 and road
@@ -271,7 +271,7 @@ Burning heavily on hills above PCH just West of Carbon Mesa road.
 **Update 3:35 PM:** New photo from
 [HereInMalibu](http://www.laobserved.com/malibu/):
 
-[![](http://farm3.static.flickr.com/2218/1678558405_5818d1c8c3.jpg)](http://www.flickr.com/photo_zoom.gne?id=1678558405&size=m)
+[![Fire photo](http://farm3.static.flickr.com/2218/1678558405_5818d1c8c3.jpg)](http://www.flickr.com/photo_zoom.gne?id=1678558405&size=m)
 
 **Update 3:40 PM**: Looks like the fire around Malibu Canyon is starting
 to burn again. So sez Channel 4.
@@ -303,15 +303,15 @@ Map](http://maps.google.com/maps/ms?ie=UTF8&hl=en&om=1&t=h&msa=0&msid=1104451337
 Voluntary Evacs changed to Mandatory. Got permission from
 [MrPuffy](http://flickr.com/photos/8283620@N04/) to publish some shots:
 
-[![](http://farm3.static.flickr.com/2406/1679509002_c9b9533a0d.jpg?v=0)](http://flickr.com/photos/8283620@N04/1679509002/)
+[![Fire](http://farm3.static.flickr.com/2406/1679509002_c9b9533a0d.jpg?v=0)](http://flickr.com/photos/8283620@N04/1679509002/)
 
-[![](http://farm3.static.flickr.com/2270/1678659847_dc0ccbf884.jpg?v=0)](http://flickr.com/photos/8283620@N04/1678659847/)
+[![Fire](http://farm3.static.flickr.com/2270/1678659847_dc0ccbf884.jpg?v=0)](http://flickr.com/photos/8283620@N04/1678659847/)
 
-[![](http://farm3.static.flickr.com/2236/1678661753_4601fd9888.jpg?v=0)](http://flickr.com/photos/8283620@N04/1678661753/)
+[![Fire](http://farm3.static.flickr.com/2236/1678661753_4601fd9888.jpg?v=0)](http://flickr.com/photos/8283620@N04/1678661753/)
 
-![](http://farm3.static.flickr.com/2217/1678663385_b46b8f3f88.jpg?v=0)
+![Fire](http://farm3.static.flickr.com/2217/1678663385_b46b8f3f88.jpg?v=0)
 
-[![](http://farm3.static.flickr.com/2282/1678665467_97ce524467.jpg?v=0)](http://flickr.com/photos/8283620@N04/1678665467/)
+[![Fire](http://farm3.static.flickr.com/2282/1678665467_97ce524467.jpg?v=0)](http://flickr.com/photos/8283620@N04/1678665467/)
 
 **UPDATE 4:01 PM**: More from
 [HereInMalibu](http://www.laobserved.com/malibu/):
@@ -363,7 +363,7 @@ Site](http://www.fire.lacounty.gov/): School Closures Tomorrow:
 [Deneill](http://flickr.com/photos/deneill/1679563243/) took some great
 photos of the fire:
 
-[![](http://farm3.static.flickr.com/2215/1679563243_2abb9151a6.jpg?v=0)](http://flickr.com/photos/deneill/1679563243/)
+[![Fire](http://farm3.static.flickr.com/2215/1679563243_2abb9151a6.jpg?v=0)](http://flickr.com/photos/deneill/1679563243/)
 
 **Update 5:08 PM**: Feeling uneasy, but not yet evacuating. Fire seems
 to be holding firm at Carbon Canyon / Carbon Mesa. This is good, except
@@ -375,7 +375,7 @@ the cat cages ready.
 
 **Update 5:43 PM:** Chabad of Malibu evacuates their Torah:
 
-[![](http://farm3.static.flickr.com/2408/1680993818_d392a540f1.jpg?v=0)](http://flickr.com/photos/jewishjournal/1680993818/)
+[![Fire](http://farm3.static.flickr.com/2408/1680993818_d392a540f1.jpg?v=0)](http://flickr.com/photos/jewishjournal/1680993818/)
 
 **Update 6:43 PM**: Got the automated call asking me to evacuate. People
 South of Topanga Center should go south on Topanga to PCH, and then East

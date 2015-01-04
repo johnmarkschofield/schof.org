@@ -82,7 +82,7 @@ structure count.
 > Here's today's sunrise, from Bluffs Park. Huge plume of smoke from
 > southern fires drifts across the skyline.
 
-[![](http://farm3.static.flickr.com/2271/1711062492_ca463327e6.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1711062492/)
+[![Sunrise](http://farm3.static.flickr.com/2271/1711062492_ca463327e6.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1711062492/)
 
 **Update 9:12 AM:** [LA County Fire](http://www.fire.lacounty.gov/)
 reports 10% containment on 3,800 acres.
@@ -308,7 +308,7 @@ from yesterday afternoon.
 > billowing smoke coming off the numerous large fires and spreading over
 > the Pacific Ocean. Fire activity is outlined in red.
 
-[![](http://www.nasa.gov/images/content/193856main_wildfire_oct22_516px.jpg)](http://www.nasa.gov/vision/earth/lookingatearth/socal_wildfires_oct07.html)
+[![Fires from space](http://www.nasa.gov/images/content/193856main_wildfire_oct22_516px.jpg)](http://www.nasa.gov/vision/earth/lookingatearth/socal_wildfires_oct07.html)
 
 **Update 10:20 AM -- SUMMARY**: Things appear to be looking up for the
 Malibu / Canyon fire. It hasn't moved much from where it was last night,
@@ -338,7 +338,7 @@ we can actually read. Click the map for image size options. [Full-size
 version
 here.](http://farm3.static.flickr.com/2179/1713443943_c7dffe4f78_o.jpg)
 Thanks very much,
-M![![](http://farm3.static.flickr.com/2179/1713443943_ee63a8a449.jpg?v=0)](http://flickr.com/photos/schof/1713443943/)  
+M![![A much better map](http://farm3.static.flickr.com/2179/1713443943_ee63a8a449.jpg?v=0)](http://flickr.com/photos/schof/1713443943/)  
 This pretty much confirms what we already know. (And because the fire
 hasn't moved much, this is probably still accurate.) News to me was the
 small area of fire BETWEEN Las Flores and Topanga, by PCH. I haven't
@@ -486,7 +486,7 @@ There's a lot going on here; I may have missed some.)
 area between Las Flores and Topanga removed. ([View in
 highest-detail](http://farm3.static.flickr.com/2418/1715324883_471ae0ec25_o.jpg).)  
 
-[![](http://farm3.static.flickr.com/2418/1715324883_06e390653e.jpg?v=0)](http://flickr.com/photos/schof/1715324883/)
+[![Updated burn map](http://farm3.static.flickr.com/2418/1715324883_06e390653e.jpg?v=0)](http://flickr.com/photos/schof/1715324883/)
 
 **Update 2:15 PM** I have updated the [Google Maps
 page](http://local.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=110445133727901355192.00043d057b853a9fa91c6&ll=34.074275,-118.6726&spn=0.229209,0.253029&z=12&om=1)

@@ -5,7 +5,7 @@ Tags: fire, malibu, topanga
 [HereInMalibu](http://www.laobserved.com/malibu/) has great photos and
 news from the fire again. I think she needs to move:  
 
-[![](http://farm3.static.flickr.com/2341/2059956252_30ad58ad22.jpg)](http://www.flickr.com/photo_zoom.gne?id=2059956252&size=m)
+[![Fire](http://farm3.static.flickr.com/2341/2059956252_30ad58ad22.jpg)](http://www.flickr.com/photo_zoom.gne?id=2059956252&size=m)
 Here's the [rest of her photos from
 Flickr.](http://www.flickr.com/photos/38952296@N00/) As always,
 HereInMalibu has good fire information too:

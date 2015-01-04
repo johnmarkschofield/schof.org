@@ -190,9 +190,9 @@ list.
 > ominous to a mobile home dweller like me, the melted remains of a
 > construction trailer.
 
-[![](http://farm3.static.flickr.com/2263/1693019506_77aa48a141.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1693019506/)
+[![Burned-down clock tower](http://farm3.static.flickr.com/2263/1693019506_77aa48a141.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1693019506/)
 
-[![](http://farm3.static.flickr.com/2278/1693080638_6d1a43a624.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1693080638/)
+[![Burned-down trailer](http://farm3.static.flickr.com/2278/1693080638_6d1a43a624.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1693080638/)
 
 **Update 12:10 PM**: City Of Malibu has a not-particularly informative
 fire map. I can't see road names or exactly where stuff is. My [Google
@@ -221,7 +221,7 @@ but since I can't watch TV here, fire info not as recent. New info from
 their own Google Map up. [RCMurphy](http://flickr.com/photos/rcmurphy/)
 is posting more photos around Malibu Center.
 
-[![](http://farm3.static.flickr.com/2359/1695537594_9b94d4086b.jpg?v=0)](http://flickr.com/photos/rcmurphy/1695537594/)
+[![Burned-down clock tower](http://farm3.static.flickr.com/2359/1695537594_9b94d4086b.jpg?v=0)](http://flickr.com/photos/rcmurphy/1695537594/)
 
 **Update 12:40 PM**: Wanted to highlight this comment -- see the
 original in the comments at the bottom of the page. This is about the
@@ -253,7 +253,7 @@ news.
 > Wind shifts, fire shifts, and the first tiny tongue of [flame
 > appears](http://www.flickr.com/photo_zoom.gne?id=1695785644&size=l).
 
-[![](http://farm3.static.flickr.com/2234/1694922065_3a67d8d326.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1694922065/)
+[![Couple viewing the smoke](http://farm3.static.flickr.com/2234/1694922065_3a67d8d326.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1694922065/)
 
 Given what we've heard previously about fire in Las Flores triggering
 mandatory evacuations in Topanga, Topanga residents can probably expect
@@ -410,7 +410,7 @@ upped fire size to 2700+ acres.
 says things are getting hotter -- title of this photo is "wind shifts,
 flames appear."
 
-[![](http://farm3.static.flickr.com/2232/1695785644_0e17f9e221.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1695785644/)
+[![Fire](http://farm3.static.flickr.com/2232/1695785644_0e17f9e221.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1695785644/)
 
 **Update 4:44 PM**: More news from
 [Pepperdine](http://emergency.pepperdine.edu/):
@@ -436,24 +436,24 @@ flames appear."
 **Update 4:51 PM**: [Di
 Sanders](http://flickr.com/people/surfingsanders/) has some scary shots
 of the fire. I think it's time for her to get away from wherever she's
-standing:[![](http://farm3.static.flickr.com/2376/1699180312_70ebb0c045.jpg?v=0)](http://flickr.com/photos/surfingsanders/1699180312/)
+standing:[![Fire](http://farm3.static.flickr.com/2376/1699180312_70ebb0c045.jpg?v=0)](http://flickr.com/photos/surfingsanders/1699180312/)
 
-[![](http://farm3.static.flickr.com/2220/1699177010_5b44caac8a.jpg)](http://flickr.com/photos/surfingsanders/1699177010/)
+[![Fire](http://farm3.static.flickr.com/2220/1699177010_5b44caac8a.jpg)](http://flickr.com/photos/surfingsanders/1699177010/)
 
-[![](http://farm3.static.flickr.com/2228/1699157716_c70d7693be.jpg?v=0)](http://flickr.com/photos/surfingsanders/1699157716/)
+[![Fire](http://farm3.static.flickr.com/2228/1699157716_c70d7693be.jpg?v=0)](http://flickr.com/photos/surfingsanders/1699157716/)
 
-[![](http://farm3.static.flickr.com/2110/1698295515_695149a18f.jpg?v=0)](http://flickr.com/photos/surfingsanders/1698295515/)
+[![Fire](http://farm3.static.flickr.com/2110/1698295515_695149a18f.jpg?v=0)](http://flickr.com/photos/surfingsanders/1698295515/)
 
-[![](http://farm3.static.flickr.com/2032/1698293641_5b7a5a2c36.jpg?v=0)](http://flickr.com/photos/surfingsanders/1698293641/)
+[![Fire](http://farm3.static.flickr.com/2032/1698293641_5b7a5a2c36.jpg?v=0)](http://flickr.com/photos/surfingsanders/1698293641/)
 
-[![](http://farm3.static.flickr.com/2407/1699142158_ee4f5de4a5.jpg?v=0)](http://flickr.com/photos/surfingsanders/1699142158/)
+[![Fire](http://farm3.static.flickr.com/2407/1699142158_ee4f5de4a5.jpg?v=0)](http://flickr.com/photos/surfingsanders/1699142158/)
 
 **Update 5:04 PM:** This is a NASA satellite photo of the fires. The
 first taken at 11:35 AM; the second at 2:50 PM. Red outline shows the
 size of the fires at each time. Smoke plumes speak for themselves. Click
 the photo to go to NASA's page on the fires.
 
-[![](http://www.nasa.gov/images/content/193435main_wildfire_oct21_large_titled.jpg)](http://www.nasa.gov/vision/earth/lookingatearth/socal_wildfires_oct07.html)
+[![Fire](http://www.nasa.gov/images/content/193435main_wildfire_oct21_large_titled.jpg)](http://www.nasa.gov/vision/earth/lookingatearth/socal_wildfires_oct07.html)
 
 **Update 5:11 PM**: [Google
 map](http://maps.google.com/maps/ms?ie=UTF8&hl=en&om=1&msa=0&msid=117631292961056724014.00043d0e9ca465cefeeed&ll=35.196256,-118.190918&spn=7.117119,4.691162&z=8)
@@ -485,7 +485,7 @@ wildfires in the area. Other new news is that the burn area is up to
 > Here's the view of Malibu's most active fire, where a plane and three
 > helicopters are making a final assault.
 
-[![](http://farm3.static.flickr.com/2022/1700167224_f3a853ad26.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1700167224/)
+[![Fire](http://farm3.static.flickr.com/2022/1700167224_f3a853ad26.jpg?v=0)](http://www.flickr.com/photos/38952296@N00/1700167224/)
 
 **Update 6:19 PM**: City of Malibu reports 2400 acres as of 5:30 PM.
 Also, their Fire Fact Sheet reports additional structures damaged and
@@ -530,5 +530,5 @@ the 'rents and going to sleep. More updates tomorrow, again interspersed
 with work. (Hopefully with much more work.)
 
 **Update 8:44 AM Oct 23**: Further updates will be posted here:
-<http://blog.sudosu.net/2007/malibu-fire-day-3-oct-23/>
+<http://schof.org/2007/10/23/malibu-fire-day-3-oct-23/>
 
