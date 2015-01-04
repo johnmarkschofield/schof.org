@@ -12,4 +12,6 @@ Photo galleries (and image processing and thumbnailing) are done in [Adobe Light
 
 All photos and html are served out by [Amazon S3](https://aws.amazon.com/s3/).
 
+DNS is provided by [Amazon Route 53](https://aws.amazon.com/route53/).
+
 Domain registration provided by [Nearly Free Speech](https://www.nearlyfreespeech.net/).
