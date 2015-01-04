@@ -7,7 +7,7 @@
 {% for tag in tag_cloud | sort %}
 <li class="tag-{{ tag.1 }}">
 	<a href="{{ SITEURL }}/{{ tag.0.url }}">
-		<i class="icon-tag icon-large"></i>{{ tag.0|e }}
+		<i class="icon-tag icon-large"></i>{{ tag.0|e|title }}
 	</a>
 </li>
 {% endfor %}
