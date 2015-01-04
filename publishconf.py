@@ -26,3 +26,5 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 
 FEED_MAX_ITEMS = 99
+
+# SITEURL = 'http://schof.org'

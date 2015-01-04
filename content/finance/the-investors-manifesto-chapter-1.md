@@ -1,6 +1,6 @@
 Title: "The Investor's Manifesto:" Chapter 1
 Date: 2012-12-31 13:38
-Tags: book reviews, financial competence step 6
+Tags: book review, financial competence step 6
 
 
 Continuing my in-depth examination of "[The Investor's

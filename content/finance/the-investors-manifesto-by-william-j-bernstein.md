@@ -1,6 +1,6 @@
 Title: "The Investor's Manifesto" by William J. Bernstein
 Date: 2012-12-30 12:45
-Tags: book reviews, financial competence step 6
+Tags: book review, financial competence step 6
 
 I saw [a
 recommendation](http://www.mrmoneymustache.com/2012/02/17/book-review-the-intelligent-asset-allocator/)

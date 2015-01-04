@@ -1,6 +1,6 @@
 Title: "The Investor's Manifesto:" Chapter 2 (Part 3 of 3) -- Stocks
 Date: 2013-01-09 22:16
-Tags: book reviews, financial competence step 6
+Tags: book review, financial competence step 6
 
 Here I continue my review of ["The Investor's Manifesto" by
 Bernstein](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein") with
