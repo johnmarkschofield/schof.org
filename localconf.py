@@ -8,9 +8,9 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
-from commonconf import *
+from commonconf import *  # noqa
 
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

@@ -21,11 +21,16 @@ TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 THEME = 'gum'  # Clean, easy-to-read. Responsive. Good cat & tag support.
 
-DEFAULT_PAGINATION = 25
+DEFAULT_PAGINATION = 10
+DEFAULT_ORPHANS = 2
+
+# PAGINATION_PATTERNS = (
+#     (1, '{base_name}/', '{base_name}/index.html'),
+#     (2, '{base_name}/page/{number}', '{base_name}/page/{number}/index.html'),
+# )
 
 PAGINATION_PATTERNS = (
-    (1, '{base_name}', '{base_name}'),
-    (2, '{base_name}/page{number}', '{base_name}/page{number}'))
+    (0, u'{name}{number}{extension}', u'{name}{number}{extension}'), )
 
 CURRENT_YEAR = datetime.now().year
 
@@ -39,9 +44,13 @@ TAG_SAVE_AS = 'tag/{slug}'
 
 TAGS_SAVE_AS = 'tags'
 
-AUTHOR_URL = 'author/{slug}'
-AUTHOR_SAVE_AS = 'author/{slug}'
-AUTHORS_SAVE_AS = 'authors'
+AUTHOR_URL = ''
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
+
+# AUTHOR_URL = 'author/{slug}'
+# AUTHOR_SAVE_AS = 'author/{slug}'
+# AUTHORS_SAVE_AS = 'authors'
 
 CATEGORY_URL = 'category/{slug}'
 CATEGORY_SAVE_AS = 'category/{slug}'
@@ -49,9 +58,14 @@ CATEGORIES_SAVE_AS = ''
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}'
-YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/all'
-MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/all'
+
+YEAR_ARCHIVE_SAVE_AS = ''
+MONTH_ARCHIVE_SAVE_AS = ''
 ARCHIVES_SAVE_AS = 'archives'
+
+# YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/all'
+# MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/all'
+# ARCHIVES_SAVE_AS = 'archives'
 
 FEED_DOMAIN = 'http://schof.org/'
 
@@ -85,5 +99,3 @@ EXTRA_PATH_METADATA = {
 LOAD_CONTENT_CACHE = True
 CHECK_MODIFIED_METHOD = 'mtime'
 CACHE_CONTENT = True
-
-# TYPOGRIFY = True

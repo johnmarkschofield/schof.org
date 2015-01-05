@@ -56,4 +56,3 @@ Ultimately I'd like to build a house in a beautiful, quiet place with a
 good year-round water supply, and implement there the lessons I've
 learned here in Los Angeles. I'll keep writing as I flesh out my plans,
 and as I learn more, build up my skills, and try new things.
-
