@@ -53,10 +53,9 @@ def serve():
 
 def publish():
     clean()
-    # local('git status | grep -q "nothing to commit, working directory clean"')
-    # local('git status | grep -q "Your branch is up-to-date with"')
+    local('git status | grep -q "nothing to commit, working directory clean"')
+    local('git status | grep -q "Your branch is up-to-date with"')
     local('pelican -s publishconf.py')
-    # local('git commit -a && git push origin master')
     local(
         's3cmd ' +
         '--check-md5 ' +
