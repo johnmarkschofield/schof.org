@@ -22,7 +22,7 @@ def clean():
 
 
 def build():
-    local('pelican-themes -s ~/code/schof/pelican-schof/themes/gum/')
+    local('pelican-themes -s ~/code/me/pelican-schof/themes/gum/')
     local('pelican -s localconf.py')
 
 
