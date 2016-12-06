@@ -1,5 +1,5 @@
 Title: I Am Muslim
-Date: 2016-12-06 22:50
+Date: 2016-12-05 22:40
 Tags: fascism,resistance
 
 As the child of a Danish mother, I grew up on [stories of Danish resistance to the Nazis during WW2](https://www.amazon.com/Hitlers-Savage-Canary-History-Resistance/dp/1628723718). My mother was a small child during the occupation, and she spoke to me of her vivid memories of having a German soldier quartered in her home during the war.
