@@ -11,6 +11,5 @@ It's natural for me to think of all this when I hear of the great increase in ha
 And then I saw this, from the inestimable [Pinboard](https://twitter.com/pinboard):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A Facebook meme that might be worth spreading: <br>1. Go to About-&gt;&quot;Contact and Basic Info&quot;<br>2. Change &quot;Religious Views&quot; to “Muslim”</p>&mdash; Pinboard (@Pinboard) <a href="https://twitter.com/Pinboard/status/805886021028036608">December 5, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Yep. I'm now Muslim, [at least on Facebook](https://www.facebook.com/schof/about). This is more than an empty symbol -- it's a small but genuine attempt to make Facebook useless as a way of targeting Muslims, and it becomes more effective the more other kind-hearted people do it. I know my mother would like this.
