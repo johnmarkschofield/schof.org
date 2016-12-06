@@ -30,11 +30,11 @@ Story from the Washington Post:
 > to the United States for what the soldier recalls the doctor
 > describing as his "safety."
 
-Emphasis added. So Ford claims his squadmates are doing bad things to
-prisoners and his captain ships him off in restraints as a looney. The
+Emphasis added. So Ford claims his squad-mates are doing bad things to
+prisoners and his captain ships him off in restraints as a loony. The
 captain gave Ford a chance to recant before having him locked up -- is
 it any wonder more reports of torture didn't come out before Abu Ghraib?
-How many soliders would have the courage and strength of character Ford
+How many soldiers would have the courage and strength of character Ford
 did and refuse to take back what they know is true?
 
 That a single captain did this is reprehensible but understandable in a
