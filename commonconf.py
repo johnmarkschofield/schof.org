@@ -67,7 +67,7 @@ ARCHIVES_SAVE_AS = 'archives'
 # MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/all'
 # ARCHIVES_SAVE_AS = 'archives'
 
-FEED_DOMAIN = 'http://schof.org/'
+FEED_DOMAIN = 'https://schof.org/'
 
 SLUGIFY_SOURCE = "basename"
 
