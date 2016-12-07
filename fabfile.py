@@ -69,6 +69,15 @@ def deploy():
     publish()
 
 
+def update_virtualenv():
+    if hasattr(sys, 'real_prefix'):
+        local("pip install -r requirements.txt")
+        local("pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U")
+        local('Pip freeze --local > requirements.txt')
+    else:
+        fabric.utils.abort("Not running in a virtualenv. Fix that.")
+
+
 def pub():
     publish()
 
