@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+"""Configuration common to all uses of fab."""
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from datetime import datetime
@@ -72,7 +73,7 @@ FEED_DOMAIN = 'https://schof.org/'
 SLUGIFY_SOURCE = "basename"
 
 PLUGIN_PATHS = [
-    os.path.expandvars('$HOME/code/others/pelican-plugins')]
+    os.path.expandvars('$HOME/code/me/pelican-plugins')]
 
 PLUGINS = ['sitemap', 'simple_footnotes', 'render_math']
 
