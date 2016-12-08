@@ -25,6 +25,8 @@ def clean():
         local('rm -rf %s' % CACHE_DIR)
         local('mkdir %s' % CACHE_DIR)
 
+    local('rm *.pyc')
+
 
 def build():
     """Build it all."""
@@ -73,6 +75,7 @@ def publish():
         '--delete-removed ' +
         '--mime-type="text/html" ' +
         '--guess-mime-type ' +
+        '--cf-invalidate --cf-invalidate-default-index ' +
         'sync output/ s3://schof.org/')
 
 
