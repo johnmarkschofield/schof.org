@@ -71,7 +71,7 @@ def publish():
     local('pelican -s publishconf.py')
     local(
         's3cmd ' +
-        '--check-md5 ' +
+        '--check-md5 --no-preserve ' +
         '--delete-removed ' +
         '--mime-type="text/html" ' +
         '--guess-mime-type ' +
