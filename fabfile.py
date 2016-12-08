@@ -28,8 +28,7 @@ def clean():
 
 def build():
     """Build it all."""
-    theme_path = os.path.join(os.cwd(), 'themes/gum/')
-    print(theme_path)
+    theme_path = os.path.join(os.getcwd(), 'themes/gum/')
     local('pelican-themes -s %s' % theme_path)
     local('pelican -s localconf.py')
 
