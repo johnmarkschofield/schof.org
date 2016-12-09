@@ -1,4 +1,8 @@
+aws==0.2.5
+beautifulsoup4==4.5.1
 blinker==1.4
+boto==2.43.0
+bs4==0.0.1
 cffi==1.9.1
 cryptography==1.6
 docutils==0.12
@@ -12,8 +16,9 @@ ipaddress==1.0.17
 Jinja2==2.8
 Markdown==2.6.7
 MarkupSafe==0.23
-paramiko==2.0.2
+paramiko==1.17.2
 pelican==3.6.3
+prettytable==0.7.2
 py-w3c==0.2.0
 pyasn1==0.1.9
 pycparser==2.17
