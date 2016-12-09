@@ -7,7 +7,7 @@ bookmark-handling service. It lets you share bookmarks with other people
 in a number of ways that are much more powerful than they appear at
 first. It's elegant and easy to use.
 
-I never use it. I use [Furl.net](http://furl.net) instead, a service
+I never use it. I use [Furl.net](https://web.archive.org/web/20050303045142/http://www.furl.net/index.jsp) instead, a service
 that, while adequate, has none of the excitement or polish of
 [del.icio.us](http://del.icio.us/).
 

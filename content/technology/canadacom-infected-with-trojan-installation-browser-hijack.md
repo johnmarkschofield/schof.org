@@ -13,7 +13,7 @@ Canada.com. I'm currently out of different IP addresses to try. I'll try
 again from home to see if the rest of Canada.com is infected.*
 
 **How I found The Problem:** I followed a link from
-[Bynkii.com](http://Bynkii.com) to a Vancouver Sun story that Bynkii
+[Bynkii.com](https://web.archive.org/web/20080412054849/http://www.bynkii.com/) to a Vancouver Sun story that Bynkii
 discussed. My browser was immediately hijacked. I visited the site
 again, and found no errors. I then tried from a laptop connected to our
 company's wireless network (completely separate from our internal

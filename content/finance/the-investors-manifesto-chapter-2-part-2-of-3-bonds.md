@@ -49,8 +49,8 @@ difference in our estimated return.
 I found it quite difficult to find good data, and had to do quite a bit
 of digging. Here's the sources I've found with the years they cover:
 
--   [Standard and Poors: 1981 to
-    2011](http://www.standardandpoors.com/ratings/articles/en/us/?articleType=HTML&assetID=1245330814766)
+-   Standard and Poors: 1981 to
+    2011 [Link no longer works]
 -   [Municipal Bond Fairness Act of 2008: 1970? to
     2006](http://www.gpo.gov/fdsys/pkg/CRPT-110hrpt835/html/CRPT-110hrpt835.htm) (date
     range not exactly clear)
