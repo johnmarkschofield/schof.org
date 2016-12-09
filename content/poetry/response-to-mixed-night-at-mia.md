@@ -3,7 +3,7 @@ Date: 2002-01-08 07:02
 Tags: poetry review
 
 I received a very interesting e-mail from someone today taking me to
-task for "sitting in judgement" on other poets and "saying such negative
+task for "sitting in judgment" on other poets and "saying such negative
 things about them."
 
 She also said, quite memorably, that "The thing I find most disturbing
@@ -12,9 +12,9 @@ to put down your hostess and those who gave you their time and
 attention."
 
 You can read the original, unedited post this person is referring to
-[here](/2002/01/06/mixed-night-at-mia/ "Mixed Night at Mia"). I won't
+[here](/2002/01/06/mixed-night-at-mia "Mixed Night at Mia"). I won't
 publish the person's name or quote more of her e-mail, because I'm not
-in the business of embarassing people. In any case, we've written back
+in the business of embarrassing people. In any case, we've written back
 and forth to each other and I feel we've reached a position of mutual
 understanding -- meaning I have no hard feelings and she doesn't seem to
 think I'm a dick anymore.
@@ -33,7 +33,7 @@ The excerpts from my e-mail follow:
 > politeness to characterize the night in general (not any specific
 > person) as 'rather weak.' I went to the previous week's 'Mia,' and feel
 > it was a much stronger night with better poetry. I also said very
-> plainly that my judgement may have been off from the adrenalin of
+> plainly that my judgment may have been off from the adrenalin of
 > performing. Another factor (that I didn't mention but probably should
 > have) was that the sound system was so poor, it was very difficult for
 > those of us in the back of the room to understand poets who used the

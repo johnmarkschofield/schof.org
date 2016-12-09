@@ -4,9 +4,9 @@ Tags: financial competence step 6
 
 
 In [an earlier
-article, ](/2013/01/03/the-investors-manifesto-chapter-2-part-2-of-3-bonds/ "“The Investor’s Manifesto:” Chapter 2 (Part 2 of 3) – Bonds")(part
+article, ](/2013/01/03/the-investors-manifesto-chapter-2-part-2-of-3-bonds "“The Investor’s Manifesto:” Chapter 2 (Part 2 of 3) – Bonds")(part
 of my Chapter 2 notes on ["Investor's Manifesto" by
-Bernstein](http://schof.org/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein"))
+Bernstein](http://schof.org/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein"))
 I looked at the interest rate of investment-grade corporate bonds, their
 historical default rate, and estimated inflation rate, and couldn't
 figure out why anyone was buying corporate bonds. However, I wasn't very

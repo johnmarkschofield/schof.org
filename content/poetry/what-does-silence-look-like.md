@@ -1,7 +1,7 @@
 Title: What does silence look like?
 Date: 2003-10-18 22:49
 
-New poem. Definitely not finished. Might take the last two paragrams
+New poem. Definitely not finished. Might take the last two paragraphs
 and turn them into a new poem.
 
 Everything I see makes a sound; what does silence look like?  

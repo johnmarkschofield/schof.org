@@ -4,7 +4,7 @@ Tags: financial competence step 6, book review
 
 
 Here I continue my review of ["The Investor's Manifesto" by
-Bernstein](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein")
+Bernstein](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein")
 with my notes from Chapter 2, which could be subtitled "Here comes the
 math!"
 

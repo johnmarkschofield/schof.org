@@ -75,8 +75,13 @@ SLUGIFY_SOURCE = "basename"
 PLUGIN_PATHS = [
     os.path.expandvars('$HOME/code/me/pelican-plugins')]
 
-PLUGINS = ['sitemap', 'simple_footnotes', 'render_math']
+PLUGINS = ['sitemap', 'simple_footnotes', 'render_math', 'deadlinks']
 
+DEADLINK_OPTS = {
+    'archive': True,
+    'classes': ['custom-class1', 'disabled'],
+    'labels': True
+}
 
 SITEMAP = {
     'format': 'xml',

@@ -4,7 +4,7 @@ Tags: book review, financial competence step 6
 
 
 Continuing my in-depth examination of "[The Investor's
-Manifesto,](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein")"
+Manifesto,](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein")"
 we'll examine Chapter 1.
 
 ### A Brief History of Financial Time

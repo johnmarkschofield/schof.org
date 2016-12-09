@@ -3,7 +3,7 @@ Date: 2013-01-03 22:07
 Tags: financial competence step 6, book review
 
 Here I continue my review of ["The Investor's Manifesto" by
-Bernstein](http://schof.org/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein") with
+Bernstein](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein") with
 my notes from Chapter 2. In Part 2 of my notes, we cover estimating
 returns on bonds.
 

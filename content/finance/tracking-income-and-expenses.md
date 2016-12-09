@@ -3,7 +3,7 @@ Date: 2012-12-30 10:00
 Tags: financial competence step 1
 
 This is step one in the plan for [Financial
-Competence](/2012/12/29/a-financial-roadmap/ "A Roadmap to Financial Competence")
+Competence](/2012/12/29/a-financial-roadmap "A Roadmap to Financial Competence")
 because all else depends on it. You can not be financially competent if
 you don't know how much you're earning, how much you're spending, and
 what you're spending it on.

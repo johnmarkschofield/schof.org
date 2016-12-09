@@ -52,11 +52,11 @@ detailed as they are, is no substitute for reading the book. This is not
 Cliff's Notes; this is a book club. You'll need to do your own reading
 of the book to get the full benefit.
 
--   [Preface](/2012/12/30/the-investors-manifesto-preface/ "“The Investor’s Manifesto:” Preface")
+-   [Preface](/2012/12/30/the-investors-manifesto-preface "“The Investor’s Manifesto:” Preface")
 -   [Chapter
-    1](/2012/12/31/the-investors-manifesto-chapter-1/ "“The Investor’s Manifesto:” Chapter 1")
--   [Chapter 2, Part 1 of 3](/2013/01/02/the-investors-manifesto-chapter-2-part-1-of-3/)
--   [Chapter 2, Part 2 of 3](/2013/01/03/the-investors-manifesto-chapter-2-part-2-of-3-bonds/) 
--   [Chapter 2, Part 3 of 3](/2013/01/09/the-investors-manifesto-chapter-2-part-3-of-3-stocks/)
+    1](/2012/12/31/the-investors-manifesto-chapter-1 "“The Investor’s Manifesto:” Chapter 1")
+-   [Chapter 2, Part 1 of 3](/2013/01/02/the-investors-manifesto-chapter-2-part-1-of-3)
+-   [Chapter 2, Part 2 of 3](/2013/01/03/the-investors-manifesto-chapter-2-part-2-of-3-bonds) 
+-   [Chapter 2, Part 3 of 3](/2013/01/09/the-investors-manifesto-chapter-2-part-3-of-3-stocks)
  
 

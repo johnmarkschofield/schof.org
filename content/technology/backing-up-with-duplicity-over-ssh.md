@@ -6,11 +6,11 @@ I'm attempting to set up [Duplicity](http://duplicity.nongnu.org/) as a
 backup tool, running from cron over ssh, to backup my home directory to
 another server.
 
-I of course already have passwordless SSH set up to connect to that
+I of course already have password-less SSH set up to connect to that
 server, and use ssh-agent to store the passphrase for my SSH key, [as
 described in another
-entry](/2008/06/09/seamless-ssh/ "Seamless SSH").
-However, I could not get passwordless SSH to work from a cron job. If
+entry](/2008/06/09/seamless-ssh "Seamless SSH").
+However, I could not get password-less SSH to work from a cron job. If
 anyone has tips on how to do that, I'd love to hear it.
 
 So I created a second SSH public/private key pair with no passphrase,

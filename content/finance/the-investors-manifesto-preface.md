@@ -3,7 +3,7 @@ Date: 2012-12-30 13:03
 Tags: financial competence step 6, book review
 
 In my [last post, I introduced "The Investor's Manifesto" and William J.
-Bernstein](http://schof.org/?p=1966). In this post, I'll give you my
+Bernstein](/2012/12/30/the-investors-manifesto-by-william-j-bernstein). In this post, I'll give you my
 notes from the Preface.
 
 Bernstein starts off optimistic as hell:

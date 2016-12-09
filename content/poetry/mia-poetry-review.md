@@ -9,7 +9,7 @@ Jelena Andjelkovic, who did a really solid
 20 minutes. Nice hosts (Charlotte and Michelle) who did a good job,
 despite calling me Jack Shofield. It's Schofield, folks -- pronounce it
 like "school." And my name's not Jack. Did four pieces -- "[Tacos
-México,](http://schof.org/2001/01/01/tacos-mexico/ "Tacos México")" and
+México,](/2001/01/01/tacos-mexico "Tacos México")" and
 three others that aren't on the web yet: "The God Man Says," "The Sky is
 Clear," and "I Write." I was pretty happy with my reading -- I've been
 having trouble with (in my opinion) sounding like I'm shouting when I

@@ -21,7 +21,7 @@ working towards financial competence, but I owe a debt to MMM as well. I
 think getting married planted the seed of desire towards being
 financially competent, but MMM gave me the kick in the pants I needed,
 as well as the roadmap I've used to build [my own plan towards financial
-competence](/2012/12/29/a-financial-roadmap/ "A Roadmap to Financial Competence").
+competence](/2012/12/29/a-financial-roadmap "A Roadmap to Financial Competence").
 I can't recommend the MMM site highly enough -- it's an excellent
 starting point towards financial competence.
 
@@ -39,7 +39,7 @@ goal. Currently, we want to save 30% of our income each month and apply
 it to either debt or investment. In November we were at about 10% and in
 December, due to Christmas presents, we're at about 0%. I'm not proud of
 that. (You can read about response to that -- [A No Gift Christmas next
-year](/2012/12/30/a-no-gift-christmas/ "A No-Gift Christmas").)
+year](/2012/12/30/a-no-gift-christmas "A No-Gift Christmas").)
 
 So our goal is to decrease our spending each month by 10% until we're
 saving 30% of our gross income. (I'd prefer to be saving 50%, but I want

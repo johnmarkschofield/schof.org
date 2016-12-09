@@ -70,5 +70,5 @@ The steps to take, then are:
 
 I'd love to get this even more automated -- as one or two steps instead
 of three. If you have any ideas for how to do that, [please get in touch
-with me](/contact/).
+with me](/contact).
 

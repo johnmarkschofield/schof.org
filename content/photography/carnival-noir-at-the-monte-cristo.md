@@ -11,7 +11,7 @@ had a blast shooting it!
 I was originally drawn to the idea of Carnival Noir by the fire
 performers. (The Carnival Noir poster is in the gallery below.) I had a
 great time shooting the fire art at the [Xavier Cross
-Benefit](/2010/03/06/xavier-cross-benefit-march-2010/) in
+Benefit](/2010/03/06/xavier-cross-benefit-march-2010) in
 March, and I wanted an opportunity to further hone my fire photography.
 I certainly got that at Carnival Noir!
 
@@ -30,6 +30,6 @@ platforms in front of the stage for part of the night -- lit better than
 the main stage, I'll add.  All in all the band displayed a high level of
 musicianship, and I'd gladly see them again.
 
-[Gallery of Selected Shots](/galleries/carnival-noir-selects/)
+[Gallery of Selected Shots](/galleries/carnival-noir-selects)
 
-[All Shots](/galleries/carnival-noir-all/)
+[All Shots](/galleries/carnival-noir-all)

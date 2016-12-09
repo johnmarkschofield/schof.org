@@ -18,7 +18,4 @@ Things I'm not sure about yet:
 -   [www.myspace.com/johnmarkschofield](http://www.myspace.com/johnmarkschofield "John Mark Schofield's MySpace Page")
 -   [www.socializr.com/user/schof](http://www.socializr.com/user/schof "John Mark Schofield's Socializr Page")
 -   <http://www.facebook.com/profile.php?id=684838741>
-    -   Note that Facebook knows me as jschofield at gmail dot com
-        instead of my sudosu.net address. [Here's the
-        explanation.](/2007/facebook-aka-the-man-is-holding-me-down/ "Explanation of why Facebook won't call me root.")
 

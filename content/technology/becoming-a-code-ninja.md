@@ -96,7 +96,7 @@ of things I'm trying to do.
 It's a pretty ambitious plan I've set out for myself here. I'll keep you
 posted on how I do. [It took me almost two months to read a 5-page
 document on
-procrastination.](/2006/05/23/ive-been-putting-off-reading-procrastinationdoc/ "I’ve Been Putting Off Reading Procrastination.doc…")
+procrastination.](/2006/05/23/ive-been-putting-off-reading-procrastinationdoc "I’ve Been Putting Off Reading Procrastination.doc…")
 Don't hold your breath. But do cross your fingers for me.
 
 

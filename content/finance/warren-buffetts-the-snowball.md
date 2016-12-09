@@ -3,7 +3,7 @@ Date: 2013-01-16 21:00
 Tags: book review, financial competence
 
 I was captivated by [The Snowball: Warren Buffett and the Business of
-Life](http://www.amazon.com/gp/product/B001OD41DY/ref=as_li_ss_tl?ie=UTF8&tag=schoforg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001OD41DY) by Alice Schroeder. It's amazing that Schroeder was given the access
+Life](http://www.amazon.com/gp/product/B001OD41DY) by Alice Schroeder. It's amazing that Schroeder was given the access
 that she was, and the result is a truly fascinating book about a great
 investor and businessman.
 

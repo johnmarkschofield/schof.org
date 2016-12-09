@@ -3,7 +3,7 @@ Date: 2013-01-15 20:53
 Tags: financial competence step 6, book review
 
 Continuing our chapter-by-chapter review of "[The Investor's
-Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein"),"
+Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein"),"
 by William J. Bernstein, we're going to look at Chapter 4, which focuses
 on investor behavior. In the last chapter we made a plan for how to
 handle our portfolio. In this chapter, we learn why many investors don't

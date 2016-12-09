@@ -37,7 +37,7 @@ Essential Reading
     your way
     forward](http://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/).
 -   [The Investor's
-    Manifesto](http://www.amazon.com/gp/product/B002U3CBY8/ref=as_li_ss_tl?ie=UTF8&tag=schoforg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002U3CBY8">The Investor's Manifesto),
+    Manifesto](http://www.amazon.com/gp/product/B002U3CBY8">The Investor's Manifesto),
     by [William J.
     Bernstein](http://en.wikipedia.org/wiki/William_J._Bernstein).
     William J. Bernstein is the dean of clear, concise, simple prose
@@ -49,8 +49,8 @@ Recommended Reading
 -------------------
 
 -   [The Snowball: Warren Buffett and the Business of
-    Life](http://www.amazon.com/gp/product/B009MYD9F8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009MYD9F8&linkCode=as2&tag=schoforg-20&linkId=3NXQ7II4RKKBGMRH) by
-    Alice Schroeder. ([Review](http://schof.org/2013/01/16/warren-buffetts-the-snowball/ "Warren Buffett’s “The Snowball”"))
+    Life](http://www.amazon.com/gp/product/B009MYD9F8) by
+    Alice Schroeder. ([Review](/2013/01/16/warren-buffetts-the-snowball "Warren Buffett’s “The Snowball”"))
     An inspiring and educational view of Buffett's life, written with
     the cooperation of Buffett, his partners, and his family.
 -   [Oblivious Investor](http://www.obliviousinvestor.com/) blog by Mike
@@ -78,6 +78,6 @@ Recommended Reading
     great podcast interviews with other financial bloggers.
 -   "[Think, Act, and Invest Like Warren Buffett: The Winning Strategy
     to Help You Achieve Your Financial and Life
-    Goals](http://www.amazon.com/gp/product/0071809953/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0071809953&linkCode=as2&tag=schoforg-20),"
+    Goals](http://www.amazon.com/gp/product/0071809953),"
     by Larry Swedroe.
-    ([Review](http://schof.org/2013/02/09/think-act-and-invest-like-warren-buffett-by-larry-swedroe/ "“Think, Act, and Invest Like Warren Buffett,” by Larry Swedroe"))
+    ([Review](/2013/02/09/think-act-and-invest-like-warren-buffett-by-larry-swedroe "“Think, Act, and Invest Like Warren Buffett,” by Larry Swedroe"))

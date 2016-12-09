@@ -48,15 +48,15 @@ country as a whole.
 
 During the time period used to test the 4% rule, the long-term return on
 a mixed stock and bond portfolio was around 7%. In [Chapter
-3](/2013/01/13/the-investors-manifesto-chapter-3/ "“The Investor’s Manifesto:” Chapter 3")
+3](/2013/01/13/the-investors-manifesto-chapter-3 "“The Investor’s Manifesto:” Chapter 3")
 of [Bernstein's "Investor's
-Manifesto,"](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein")
+Manifesto,"](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein")
 we talked about [estimating the return of
-bonds](/2013/01/03/the-investors-manifesto-chapter-2-part-2-of-3-bonds/ "“The Investor’s Manifesto:” Chapter 2 (Part 2 of 3) – Bonds")
+bonds](/2013/01/03/the-investors-manifesto-chapter-2-part-2-of-3-bonds "“The Investor’s Manifesto:” Chapter 2 (Part 2 of 3) – Bonds")
 and [estimating the return of
-stocks](/2013/01/09/the-investors-manifesto-chapter-2-part-3-of-3-stocks/ "“The Investor’s Manifesto:” Chapter 2 (Part 3 of 3) — Stocks").
+stocks](/2013/01/09/the-investors-manifesto-chapter-2-part-3-of-3-stocks "“The Investor’s Manifesto:” Chapter 2 (Part 3 of 3) — Stocks").
 [Bonds have a current expected real-money return of between -0.73%
-and -4.73%](/2013/01/05/more-on-the-estimated-return-of-bonds/ "More on the Estimated Return of Bonds").
+and -4.73%](/2013/01/05/more-on-the-estimated-return-of-bonds "More on the Estimated Return of Bonds").
 The S&P 500 has a current real money expected return of 3.4%.
 
 As you can see, this is considerably more gloomy than 7%. (Of course, we
@@ -95,14 +95,14 @@ who is currently expecting a real return on U.S. equities of 3.5 percent
 over the next seven years, presumably equivalent to a nominal return of
 about 6.5 percent before inflation is taken into account." [ref]From
 Bogle's [Common Sense on Mutual
-Funds](http://www.amazon.com/gp/product/0470138130/ref=as_li_ss_tl?ie=UTF8&tag=schoforg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470138130).[/ref]
+Funds](http://www.amazon.com/gp/product/0470138130/).[/ref]
 
 William J. Bernstein, author of "[Investor's
-Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein"),"
+Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein"),"
 "[The Four Pillars of
-Investing](http://www.amazon.com/gp/product/0071747052/ref=as_li_ss_tl?ie=UTF8&tag=schoforg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0071747052),"
+Investing](http://www.amazon.com/gp/product/0071747052),"
 and "[The Intelligent Asset
-Allocator](http://www.amazon.com/gp/product/0071362363/ref=as_li_ss_tl?ie=UTF8&tag=schoforg-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0071362363),"
+Allocator](http://www.amazon.com/gp/product/0071362363),"
 said, "The wise investor ignores the economy (macrobabble), market
 sentiment (animal spirits), and especially investment company
 strategists (astrologers, except I wouldn’t want to insult
@@ -139,9 +139,9 @@ Grantham outlines a number of reasons for this:
     damage.
 
 As we saw in our [Chapter 4
-review](/2013/01/15/the-investors-manifesto-chapter-4/ "“The Investor’s Manifesto:” Chapter 4") of
+review](/2013/01/15/the-investors-manifesto-chapter-4 "“The Investor’s Manifesto:” Chapter 4") of
 "[Investor's
-Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein"),"
+Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein"),"
 success in investing does not necessarily track with the economic
 success of a country. China had a marvelous 20 years judging by GDP, but
 investors in the Chinese stock market lost money over the same period.

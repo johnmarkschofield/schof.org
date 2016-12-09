@@ -11,7 +11,7 @@ listeners. The emphasis seems to lean more towards writing than
 performing -- not that the performance is flat, but more quiet and
 scholarly. All in all it was a good night, with some quite-skilled
 poets. I did "[Walking Down
-Winston](/2001/12/20/walking-down-winston/ "Walking Down Winston")."
+Winston](/2001/12/20/walking-down-winston "Walking Down Winston")."
 I felt quite good about the reading, and got a lot of positive feedback.
 Now I just need to write more poems that are as strong.
 
@@ -21,10 +21,10 @@ many people into his bedroom/living room, passed around the beer and the
 snacks, and had a rockin' good time. Each person read one or two poems
 (there seemed to be no set policy, but nobody abused the room) and then
 passed the baton off to someone else. I read "[Tacos
-México](/2001/01/01/tacos-mexico/ "Tacos México")" as
+México](/2001/01/01/tacos-mexico "Tacos México")" as
 the first poem of the evening, which got a great response, and "[The Sum
 Of
-Tears](/2001/03/04/the-sum-of-tears/ "The Sum Of Tears"),"
+Tears](/2001/03/04/the-sum-of-tears "The Sum Of Tears"),"
 which didn't get as good a response. I attribute that to the lateness of
 the hour. (And I wasn't feeling the poem when I read it. It felt like I
 was acting rather than speaking the piece honestly. Man, this poetry

@@ -30,7 +30,7 @@ of losing a major chunk of your investment.
 Asset allocation (in other words, how and where to invest your money) is
 a huge topic, and I'll be writing about it at great length in the future
 as I get closer to [Financial
-Competence](http://schof.org/2012/12/29/a-financial-roadmap/ "A Roadmap to Financial Competence").
+Competence](/2012/12/29/a-financial-roadmap "A Roadmap to Financial Competence").
 
 There's two axes on which you'll be balancing your assets:
 

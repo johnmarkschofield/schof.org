@@ -5,7 +5,7 @@ Tags: financial competence step 6, book review
 ### Introduction
 
 We continue our chapter-by-chapter notes on the "[Investor's
-Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein")"
+Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein")"
 by Bernstein with Chapter 3, about the different assets you'll keep in
 your portfolio, and how you'll balance them.
 
@@ -36,19 +36,19 @@ Next Bernstein hits on the four main steps to building a secure
 financial future:
 
 [First,
-save](/tag/financial-competence-step-2/).
+save](/tag/financial-competence-step-2).
 If you can not save, investing will not help you. "Save as much as you
 can, and do not stop saving until you die."
 
 Second, [put away enough savings to sustain you for at least six months
 in the event of job loss or serious
-illness](/2012/12/30/taking-care-of-essential-responsibilities/ "Taking Care of Essential Responsibilities").
+illness](/2012/12/30/taking-care-of-essential-responsibilities "Taking Care of Essential Responsibilities").
 
 Third, [diversify as widely as you
-can.](/2012/12/30/manage-asset-allocation/ "Manage Asset Allocation")
+can.](/2012/12/30/manage-asset-allocation "Manage Asset Allocation")
 
 Fourth, [diversify using index
-funds](/2013/01/09/the-investors-manifesto-chapter-2-part-3-of-3-stocks/ "“The Investor’s Manifesto:” Chapter 2 (Part 3 of 3) — Stocks").
+funds](/2013/01/09/the-investors-manifesto-chapter-2-part-3-of-3-stocks "“The Investor’s Manifesto:” Chapter 2 (Part 3 of 3) — Stocks").
 
 ###  Portfolio Allocation -- Stocks vs Bonds
 

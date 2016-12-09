@@ -6,7 +6,7 @@ Tags: financial competence step 6, book review
 
 Continuing my chapter-by-chapter notes on [William Bernstein's
 "Investor's
-Manifesto,"](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein")
+Manifesto,"](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein")
 here we take up Chapter 5.
 
 I'll open with a quote from Bernstein that nicely summarizes the
@@ -68,11 +68,11 @@ a stock broker or a brokerage firm.
 ### Mutual Funds
 
 Bernstein likes mutual funds better, not because fund managers are less
-rapacious, but because it's more transparant and the Investment Company
+rapacious, but because it's more transparent and the Investment Company
 Act of 1940 gives small investors a fighting chance.
 
 Mutual funds are diversified. We've covered the [reasons for
-diversification](2013/01/07/should-you-buy-individual-stocks-and-bonds/ "Should You Buy Individual Stocks and Bonds?")
+diversification](/2013/01/07/should-you-buy-individual-stocks-and-bonds "Should You Buy Individual Stocks and Bonds?")
 previously.
 
 Mutual funds publish their fees and expenses. When you buy through a

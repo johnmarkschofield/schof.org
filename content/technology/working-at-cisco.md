@@ -4,9 +4,9 @@ Tags: autobiography, dakim, cisco
 
 I've been going through each blog entry on the site as I transition this site from [WordPress](https://wordpress.org/) to [Pelican](http://blog.getpelican.com/) and it occurred to me I don't have an entry announcing my position with [Cisco](http://www.cisco.com/).
 
-I interviewed with [Metacloud](http://www.metacloud.com/) a while back, and ended up taking a position with [Rackspace](/2014/06/06/working-at-rackspace/) instead.
+I interviewed with [Metacloud](http://www.metacloud.com/) a while back, and ended up taking a position with [Rackspace](/2014/06/06/working-at-rackspace) instead.
 
-I spent eight years at Dakim working out of their Santa Monica office, and after a short stint at [Citrusbyte](/2013/10/19/working-at-citrusbyte/) and a short time at Rackspace, I realized that the common denominator was working remotely. Both Rackspace and Citrusbyte were remote gigs, and remote just wasn't working for me. I felt isolated, and unproductive, and unsuccessful. I was definitely not living up to my potential as a geek.
+I spent eight years at Dakim working out of their Santa Monica office, and after a short stint at [Citrusbyte](/2013/10/19/working-at-citrusbyte) and a short time at Rackspace, I realized that the common denominator was working remotely. Both Rackspace and Citrusbyte were remote gigs, and remote just wasn't working for me. I felt isolated, and unproductive, and unsuccessful. I was definitely not living up to my potential as a geek.
 
 I reached out to the folks at Metacloud (which in the meantime had [been bought by Cisco](http://newsroom.cisco.com/press-release-content?type=webcontent&articleId=1496271)) and they were happy to take me on board. My first day there was November 10, 2014.
 

@@ -3,17 +3,17 @@ Date: 2012-12-30 11:41
 Tags: financial competence step 4
 
 You are Superman, and debt is your Kryptonite. If you're already
-[Financially Competent](http://schof.org/2012/12/29/a-financial-roadmap/ "A Roadmap to Financial Competence")(or
+[Financially Competent](http://schof.org/2012/12/29/a-financial-roadmap "A Roadmap to Financial Competence")(or
 think you are) you can probably come up with a dozen situations where
 debt is actually a good idea. In some of them, you'd actually be right.
 But if you're Financially Competent enough to use debt correctly, you're
 not in the target audience for [these Financial Competence
-articles](/2012/12/29/a-financial-roadmap/). If
+articles](/2012/12/29/a-financial-roadmap). If
 you're still striving for Financial Competence, as I am, your primary
 goal should be to eliminate all debt. Your recipe is simple:
 
 1.  [Save as much
-    as possible](http://schof.org/2012/12/30/increasing-your-saving-rate/ "Increasing Your Saving Rate")
+    as possible](/2012/12/30/increasing-your-saving-rate "Increasing Your Saving Rate")
 2.  Pay the minimum on each debt, except the one with the highest
     interest rate
 3.  Pay off the debt with the highest interest rate with every cent you
@@ -24,7 +24,7 @@ goal should be to eliminate all debt. Your recipe is simple:
 
 Paying off debt takes precedence over investment. It takes precedence
 over everything except the [Emergency Fund and other Essential
-Responsibilities](http://schof.org/2012/12/30/taking-care-of-essential-responsibilities/ "Taking Care of Essential Responsibilities").
+Responsibilities](/2012/12/30/taking-care-of-essential-responsibilities "Taking Care of Essential Responsibilities").
 
 What's our situation? Through the tiny amount of Financial Competence my
 wife and I had before we got married, neither of us has any credit-card

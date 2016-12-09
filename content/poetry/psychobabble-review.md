@@ -16,13 +16,13 @@ much reading to an empty house, while it was packed at the beginning of
 the night.
 
 I did "I Write" and "[Walking Down
-Winston](/2001/12/20/walking-down-winston/ "Walking Down Winston"),"
+Winston](/2001/12/20/walking-down-winston "Walking Down Winston"),"
 which got a pretty good reception considering how many people were left.
 I was happy with my performance.
 
 Before the reading I had dinner at a diner down the block and got some
 good edits done on "[The Little
-Bite](/2002/01/15/the-little-bite/ "The Little Bite")"
+Bite](/2002/01/15/the-little-bite "The Little Bite")"
 that I hope make it stronger -- I deleted a paragraph that slowing down
 the story, and added one in its place that hopefully makes it track a
 little better. The updates aren't on the web yet -- will be soon.

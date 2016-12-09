@@ -3,7 +3,7 @@ Date: 2014-12-26 16:15
 Tags: road trip, fire, small town
 
 On my way back during my
-[road trip from Los Angeles to Colorado](/2012/08/03/road-trip-from-los-angeles-to-colorado/)
+[road trip from Los Angeles to Colorado](/2012/08/03/road-trip-from-los-angeles-to-colorado)
 I saw a pillar of smoke in the distance. Driving towards it I saw a building fully-engulfed 
 in flames in this small town, with hardly anyone around it.
 
@@ -18,4 +18,4 @@ department. In this case, the fire was burning for something like 20 minutes bef
 they were able to get anything larger than a garden hose pouring water on it.
 
 
-[There's a full gallery of nine pictures.](/galleries/arizona-fire-2001/)
+[There's a full gallery of nine pictures.](/galleries/arizona-fire-2001)

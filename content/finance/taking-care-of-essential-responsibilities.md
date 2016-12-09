@@ -4,7 +4,7 @@ Tags: financial competence step 3
 
 There are two essential responsibilities you'll have to take care of on
 your road to [Financial
-Competence](http://schof.org/2012/12/29/a-financial-roadmap/ "A Roadmap to Financial Competence").
+Competence](http://schof.org/2012/12/29/a-financial-roadmap "A Roadmap to Financial Competence").
 One will apply to everyone; the other may not depending on your
 situation.
 

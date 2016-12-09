@@ -10,7 +10,7 @@ their own toys.
 My wife came up with the idea of limiting presents on her own (I'm a
 lucky man!) but I also wanted to link to this [email sent by Grandpa
 Money
-Mustache](http://www.mrmoneymustache.com/2011/11/24/happy-thanksgiving-and-buy-nothing-day-and-month/):
+Mustache](http://www.mrmoneymustache.com/2011/11/24/happy-thanksgiving-and-buy-nothing-day-and-month):
 
 > Since for me a simpler Christmas is a grander Christmas, I’m planning
 > to follow this procedure:

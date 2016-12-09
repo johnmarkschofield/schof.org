@@ -12,4 +12,4 @@ through my lens. Here's three I did:
 ![Mountain road in the desert](/images/colorado/20001230-Pc300103.jpg)
 ![Sunset on the plains of East Colorado](/images/colorado/20010103-P1030050.jpg)
 
-I took some [pictures of a building burning](/2014/12/26/arizona-building-fire/) down in Arizona on the same trip.
+I took some [pictures of a building burning](/2014/12/26/arizona-building-fire) down in Arizona on the same trip.

@@ -3,7 +3,7 @@ Date: 2013-02-10 12:53
 Tags: financial competence step 6
 
 In my [piece on the Four Percent
-Rule](/2013/01/17/investment-returns-the-four-percent-rule-and-your-personal-pucker-factor/ "The Four Percent Rule and Your Personal Pucker Factor"),
+Rule](/2013/01/17/investment-returns-the-four-percent-rule-and-your-personal-pucker-factor "The Four Percent Rule and Your Personal Pucker Factor"),
 I talked about Jeremy Grantham's November 2012 essay, "On the Road to
 Zero Growth[1. Available from the "[Jeremy Grantham's Letters and
 Articles](https://www.gmo.com/America/Library/Letters/)" section of
@@ -26,7 +26,7 @@ Low-Growth World."
 I was concerned that a lower-growth forecast for GDP would result (if it
 was accurate) in lower investment returns. But I pointed out that
 Bernstein, in [Chapter 4 of Investor's
-Manifesto](/2013/01/15/the-investors-manifesto-chapter-4/ "“The Investor’s Manifesto:” Chapter 4"),
+Manifesto](/2013/01/15/the-investors-manifesto-chapter-4 "“The Investor’s Manifesto:” Chapter 4"),
 said investment returns are often the opposite of those for a country as
 a whole -- "high grade" countries often have mediocre results, and
 mediocre[2. Sorry, Great Britain.] often have spectacular results.

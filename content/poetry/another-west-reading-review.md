@@ -39,7 +39,7 @@ there. The audience, though not exactly what I would call electric, was
 attentive and enthusiastic.
 
 I read "[Walking Down
-Winston](/2001/12/20/walking-down-winston/ "Walking Down Winston"),"
+Winston](/2001/12/20/walking-down-winston "Walking Down Winston"),"
 which got a great response. A lot of people really seemed to like it. I
 was glad they enjoyed it, but I wasn't entirely happy with my
 performance. I was kind of running on autopilot -- there are parts of
@@ -48,7 +48,7 @@ performance (I'm not sure) but if I did, it was a mechanically good
 performance. I definitely wasn't feeling the reality of the words I was
 reading.
 
-The accoustics were good enough that I don't think I needed the
+The acoustics were good enough that I don't think I needed the
 microphone -- but I kind of regret not using it, since it was a good mic
 in a good room with a professional at the sound board. Still, I need to
 get much better with a mic before I'll feel as comfortable as I do just

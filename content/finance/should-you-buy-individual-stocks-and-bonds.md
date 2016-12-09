@@ -87,7 +87,7 @@ Market risk is enough risk for anyone.
 
 You may plan to diversify using a do-it-yourself portfolio of 15 to 30
 stocks. Bad idea. Here I'll just quote from Bernstein's "[The Investor's
-Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein"):"
+Manifesto](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein"):"
 
 > You may have heard that you can get adequate diversification by owning
 > 15 or 30 stocks. In a narrow statistical sense, this is true; a

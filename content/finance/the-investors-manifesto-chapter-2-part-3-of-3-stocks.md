@@ -3,7 +3,7 @@ Date: 2013-01-09 22:16
 Tags: book review, financial competence step 6
 
 Here I continue my review of ["The Investor's Manifesto" by
-Bernstein](/2012/12/30/the-investors-manifesto-by-william-j-bernstein/ "“The Investor’s Manifesto” by William J. Bernstein") with
+Bernstein](/2012/12/30/the-investors-manifesto-by-william-j-bernstein "“The Investor’s Manifesto” by William J. Bernstein") with
 my notes from Chapter 2. In Part 3 of my notes, we cover estimating
 returns on stocks, and a good deal more about choosing stocks and
 other investments. There's some math here, but also a good deal of good
@@ -113,7 +113,7 @@ occurred in 1929-1932. While in theory going all-in on stocks would
 yield the highest long-term return, the risk is too great for most
 people to bear. Bernstein advises having a large chunk of your funds in
 bonds. [Per my earlier
-post](/2013/01/05/more-on-the-estimated-return-of-bonds/ "More on the Estimated Return of Bonds"),
+post](/2013/01/05/more-on-the-estimated-return-of-bonds "More on the Estimated Return of Bonds"),
 I think I would advise having a large chunk of your funds in something
 safe, but not necessarily bonds.
 
@@ -125,7 +125,7 @@ safe, but not necessarily bonds.
 ### Don't Buy Individual Stocks
 
 Bernstein reinforces [what I said about not purchasing individual
-stocks](/2013/01/07/should-you-buy-individual-stocks-and-bonds/ "Should You Buy Individual Stocks and Bonds?"):
+stocks](/2013/01/07/should-you-buy-individual-stocks-and-bonds "Should You Buy Individual Stocks and Bonds?"):
 
 > I know what you are thinking: 'Humbug on those low returns you’ve
 > calculated! I can do better by carefully selecting the best-performing
