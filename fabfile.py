@@ -30,9 +30,8 @@ def clean():
 
 def build():
     """Build it all."""
-    # I don't think this install is needed.
-    # theme_path = os.path.join(os.getcwd(), 'themes/gum/')
-    # local('pelican-themes -s %s' % theme_path)
+    theme_path = os.path.join(os.getcwd(), 'themes/gum/')
+    local('pelican-themes -s %s' % theme_path)
     local('pelican -s publishconf.py')
 
 
