@@ -48,11 +48,6 @@
         <div class="entry-content">
           {{ article.content }}
           <br />
-          <h4>Comment on This Article With Twitter:</h4>
-          <form method="get" id="search" action="https://twitter.com/intent/tweet">
-              <input type="hidden" name="text" maxlength="140" value=". @schof Regarding {{article.url}}, I think..."/>
-              <input type="submit" value="Write a Public Comment on Twitter"/>
-          </form>
 
         {% endif %}
 
