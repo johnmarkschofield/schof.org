@@ -30,9 +30,10 @@ def clean():
 
 def build():
     """Build it all."""
-    theme_path = os.path.join(os.getcwd(), 'themes/gum/')
-    local('pelican-themes -s %s' % theme_path)
-    local('pelican -s localconf.py')
+    # I don't think this install is needed.
+    # theme_path = os.path.join(os.getcwd(), 'themes/gum/')
+    # local('pelican-themes -s %s' % theme_path)
+    local('pelican -s publishconf.py')
 
 
 def rebuild():
@@ -55,9 +56,12 @@ def serve():
     class AddressReuseTCPServer(SocketServer.TCPServer):
         allow_reuse_address = True
 
+    handler = SimpleHTTPServer.SimpleHTTPRequestHandler
+    handler.extensions_map.update({
+        '': 'text/html'})
     server = AddressReuseTCPServer(
         ('127.0.0.1', port),
-        SimpleHTTPServer.SimpleHTTPRequestHandler)
+        handler)
 
     sys.stderr.write('Serving on port {0} ...\n'.format(port))
     server.serve_forever()
@@ -65,10 +69,9 @@ def serve():
 
 def publish():
     """Publish."""
-    clean()
     local('git status | grep -q "nothing to commit, working directory clean"')
     local('git status | grep -q "Your branch is up-to-date with"')
-    local('pelican -s publishconf.py')
+    rebuild()
     local(
         's3cmd ' +
         '--check-md5 --no-preserve ' +
