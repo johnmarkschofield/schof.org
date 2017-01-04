@@ -1,6 +1,5 @@
 Title: Empty Hands
 Date: 2017-01-04 09:12:28 PST
-Tags: poetry
 
 I held my wife's hand  
 as the needle went into her  
