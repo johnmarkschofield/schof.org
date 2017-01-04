@@ -25,8 +25,6 @@ def clean():
         local('rm -rf %s' % CACHE_DIR)
         local('mkdir %s' % CACHE_DIR)
 
-    local('rm *.pyc')
-
 
 def build():
     """Build it all."""
@@ -68,8 +66,8 @@ def serve():
 
 def publish():
     """Publish."""
-    local('git status | grep -q "nothing to commit, working directory clean"')
-    local('git status | grep -q "Your branch is up-to-date with"')
+    # local('git status | grep -q "nothing to commit, working directory clean"')
+    # local('git status | grep -q "Your branch is up-to-date with"')
     rebuild()
     local(
         's3cmd ' +
@@ -78,6 +76,7 @@ def publish():
         '--mime-type="text/html" ' +
         '--guess-mime-type ' +
         '--cf-invalidate --cf-invalidate-default-index ' +
+        '--add-header="Cache-Control:max-age=604800" ' +
         'sync output/ s3://schof.org/')
 
 

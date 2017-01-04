@@ -76,6 +76,7 @@ PLUGIN_PATHS = [
     os.path.expandvars('$HOME/code/me/pelican-plugins')]
 
 PLUGINS = ['sitemap', 'simple_footnotes', 'render_math']
+# GZIP_CACHE_OVERWRITE = False
 
 SITEMAP = {
     'format': 'xml',
