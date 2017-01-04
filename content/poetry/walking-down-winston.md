@@ -17,8 +17,8 @@ because that's where the Native Americans shoot up, and it turns out the
 homeless are just as segregated as the rest of us.  
   
 There's people grew up with me in the Valley never been to East LA;  
-never been to Crenshaw; never been south of the 10 except to go to the  
-airport even if they live their whole lives in LA; in my part of Skid  
+never been to Crenshaw; never been south of the 10 except along the beaches  
+even if they live their whole lives in LA; in my part of Skid  
 Row it's all black, all black; the whites live over by the 110 freeway  
 in the alleys and under the overpasses and behind the lots where I used  
 to park to work when I didn't live downtown and the blacks have skid row  
