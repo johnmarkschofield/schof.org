@@ -1,18 +1,20 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
+"""Configuration for publishing to the world."""
 
 import os
 import sys
 sys.path.append(os.curdir)
+
 from commonconf import *  # noqa
 
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_ALL_ATOM = u'feeds/all.atom.xml'
+# CATEGORY_FEED_ATOM = u'feeds/{slug}.atom.xml'
+CATEGORY_FEED_ATOM = None
 FEED_RSS = None
 FEED_ATOM = None
 FEED_ALL_RSS = None
@@ -24,4 +26,4 @@ TAG_FEED_RSS = None
 
 FEED_MAX_ITEMS = 99
 
-SITEURL = 'https://schof.org'
+SITEURL = u'https://schof.org'

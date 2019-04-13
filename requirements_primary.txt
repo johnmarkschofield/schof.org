@@ -1,0 +1,20 @@
+# Generate web pages from markdown and templates
+pelican
+
+# Upload files to Amazon S3. Could probably be replaced by awscli.
+s3cmd
+
+# At present used only to invalidate the CloudFront cache.
+awscli
+
+# The deployment tool we use to generate and publish the website
+invoke
+
+# Required by our config but not specified elsewhere:
+markdown
+#HTMLParser
+# Python3 should not use this package
+
+html-parser
+requests
+html5lib
