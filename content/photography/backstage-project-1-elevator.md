@@ -24,4 +24,4 @@ I felt really privileged and honored to be allowed behind the scenes of
 home and at ease while they were under so much tremendous stress and
 pressure.
 
-[Full Gallery](/galleries/elevator-2010/)
+[Full Gallery](/galleries/elevator-2010/index.html)

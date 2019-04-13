@@ -11,6 +11,6 @@ for some more music. And masks, apparently.
 
 [![Playing the guitar at home](/galleries/rooster-ra-ventura-selects/content/images/large/P1030580.jpg)](/galleries/rooster-ra-ventura-selects/content/P1030580_large.html)
 
-[Selected Images](/galleries/rooster-ra-ventura-selects/)
+[Selected Images](/galleries/rooster-ra-ventura-selects/index.html)
 
-[All Images](/galleries/rooster-ra-ventura-all/)
+[All Images](/galleries/rooster-ra-ventura-all/index.html)

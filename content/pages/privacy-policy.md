@@ -22,9 +22,8 @@ collect data about your visits, and any data they collect is governed by [their 
 
 ### Data Collection
 
-At this time, we do zero tracking of website visitors of any kind.
-We do not use cookies, store or view server logs, or use an analytic 
-service such as Google Analytics.
+We do not use cookies or use an analytic service such as Google Analytics. We do store web server logs on Amazon S3 that we use for estimating site traffic and for diagnosing technical issues. These logs would include your IP address and the page you requested, as well as what web browser you are using. We store this data for 30 days and then delete it.
+
 
 
 ### Aggregated Statistics

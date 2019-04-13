@@ -55,10 +55,6 @@ it to be as seamless as possible. I made my Vagrantfile look like this:
     end
 
 
-(I've had formatting issues with the above code that I haven't been able
-to fix. If you're going to cut-and-paste, better to do it from [this
-Gist](https://gist.github.com/johnmarkschofield/9898844).)
-
 The steps to take, then are:
 
     :::bash

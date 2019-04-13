@@ -38,6 +38,6 @@ I'd like to offer a sincere thanks to the FSD cast -- I'm incredibly
 glad that they welcomed me into their backstage lives, and I'm very
 happy to have met such a talented and friendly bunch.
 
-[Gallery of Selected Images](/galleries/freak-show-deluxe-2011-selects/)
+[Gallery of Selected Images](/galleries/freak-show-deluxe-2011-selects/index.html)
 
-[Gallery of All Images](/galleries/freak-show-deluxe-2011-all/)
+[Gallery of All Images](/galleries/freak-show-deluxe-2011-all/index.html)

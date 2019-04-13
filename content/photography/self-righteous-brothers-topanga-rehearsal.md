@@ -10,4 +10,4 @@ very fun rehearsals next door. This one is June 18, 2010.
 
 [![Drums](/galleries/self-righteous-brothers/content/images/large/P1030095.jpg)](/galleries/self-righteous-brothers/content/P1030095_large.html)
 
-[All Images](/galleries/self-righteous-brothers/)
+[All Images](/galleries/self-righteous-brothers/index.html)
