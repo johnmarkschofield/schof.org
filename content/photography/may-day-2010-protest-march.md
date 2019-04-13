@@ -68,8 +68,8 @@ was able to take at the march. I think they give the flavor of who was
 there and what it was like to be there much more than a shot of a
 hundred thousand dots taken from a helicopter.
 
-[Selected Images](http://localhost:8000/galleries/may-day-2010-selects)
+[Selected Images](http://localhost:8000/galleries/may-day-2010-selects/index.html)
 
-[All Images](http://localhost:8000/galleries/may-day-2010-all/)
+[All Images](http://localhost:8000/galleries/may-day-2010-all/index.html)
 
  

@@ -30,6 +30,6 @@ platforms in front of the stage for part of the night -- lit better than
 the main stage, I'll add.  All in all the band displayed a high level of
 musicianship, and I'd gladly see them again.
 
-[Gallery of Selected Shots](/galleries/carnival-noir-selects)
+[Gallery of Selected Shots](/galleries/carnival-noir-selects/index.html)
 
-[All Shots](/galleries/carnival-noir-all)
+[All Shots](/galleries/carnival-noir-all/index.html)

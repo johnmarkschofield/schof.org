@@ -7,6 +7,6 @@ My friend [John Lacques](http://www.drumtime.net/) (drums) and his band,
 
  [![John Lacques banging those drums](/galleries/rooster-ra-selects/content/images/large/P1030134.jpg)](/galleries/rooster-ra-selects/content/P1030134_large.html)
 
-[Selected Images](/galleries/rooster-ra-selects/)
+[Selected Images](/galleries/rooster-ra-selects/index.html)
 
-[All Images](/galleries/rooster-ra-all/)
+[All Images](/galleries/rooster-ra-all/index.html)

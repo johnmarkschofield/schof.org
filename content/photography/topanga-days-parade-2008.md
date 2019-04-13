@@ -12,4 +12,4 @@ hemp-powered, since this is Topanga.
 
 [![Fairies in a Bronco](/galleries/topanga-days-2008-all/content/images/large/20080526-IMG_7678.jpg)](/galleries/topanga-days-2008-all/content/20080526-IMG_7678_large.html)
 
-[All Photos](/galleries/topanga-days-2008-all/index_2.html)
+[All Photos](/galleries/topanga-days-2008-all/index.html)

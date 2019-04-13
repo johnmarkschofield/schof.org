@@ -80,9 +80,6 @@ Here's the ramdisk stanza I ended up with:
         fi
     fi
 
-[Here's it on GitHub, easily
-clonable.](https://github.com/johnmarkschofield/ocd/blob/master/.bashrc)
-
 The final issue is what happens when you reboot and your virtual
 machines disappear. VirtualBox will report that the machines are
 "inaccessible." They certainly are! Here's the fix:
