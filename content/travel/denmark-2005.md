@@ -12,6 +12,7 @@ travel impossible now.
 [![My mother and aunt picnicking at a monestary in the countryside](/galleries/denmark-2005-selects/content/images/large/20050629-P6290034.jpg)](/galleries/denmark-2005-selects/content/20050629-P6290034_large.html)
 
 [![Sunset in Copenhagen](/galleries/denmark-2005-selects/content/images/large/20050702-P7020006.jpg)](/galleries/denmark-2005-selects/content/20050702-P7020006_large.html)
-[Selected Photos](/galleries/denmark-2005-selects/)
 
-[All Photos](/galleries/denmark-2005-all/)
+[Selected Photos](/galleries/denmark-2005-selects/index.html)
+
+[All Photos](/galleries/denmark-2005-all/index.html)

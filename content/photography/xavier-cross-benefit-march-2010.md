@@ -45,4 +45,4 @@ head!
 All in all it was a blast, and I'm really glad I went. I hope there's an
 equally interesting photography adventure this coming weekend!
 
-Here's the [full gallery for this event](/galleries/xavier-cross-benefit/).
+Here's the [full gallery for this event](/galleries/xavier-cross-benefit/index.html).
