@@ -4,3 +4,4 @@ cache
 output
 content/galleries/
 .DS_Store
+localprivateconf.py
