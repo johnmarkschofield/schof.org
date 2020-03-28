@@ -61,7 +61,7 @@ I manually install the following programs (in no particular order):
 -   [Timer](http://www.apimac.com/mac/timer/) - For setting a timer when
     I'm doing something monotonous and need motivation. ([Pomodoro
     technique](http://en.wikipedia.org/wiki/Pomodoro_Technique).)
--   [Google Chrome](https://www.google.com/intl/en/chrome/browser/) -
+-   [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) -
     Best web browser
 -   [VMWare
     Fusion](http://www.vmware.com/products/fusion/overview.html) - A VM

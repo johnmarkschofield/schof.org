@@ -18,4 +18,4 @@ department. In this case, the fire was burning for something like 20 minutes bef
 they were able to get anything larger than a garden hose pouring water on it.
 
 
-[There's a full gallery of nine pictures.](/galleries/arizona-fire-2001)
+[There's a full gallery of nine pictures.](/galleries/arizona-fire-2001/index.html)

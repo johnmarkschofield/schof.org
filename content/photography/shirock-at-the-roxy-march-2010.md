@@ -8,4 +8,4 @@ in Hollywood. I was pretty pleased with the results.
 
 [![Photographer shooting the band on stage](/galleries/shirock-at-the-roxy/content/images/large/P1000316.jpg)](/galleries/shirock-at-the-roxy/content/P1000316_large.html)
 
-[All Images](/galleries/shirock-at-the-roxy/)
+[All Images](/galleries/shirock-at-the-roxy/index.html)

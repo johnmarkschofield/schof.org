@@ -9,6 +9,6 @@ just Monica, no Explosion) a Swedish punk act that rocked the house!
 
 [![Monica looking badass](/galleries/monica-and-the-explosions-selects/content/images/large/P1020790.jpg)](/galleries/monica-and-the-explosions-selects/content/P1020790_large.html)
 
-[Selected Images](/galleries/monica-and-the-explosions-selects/)
+[Selected Images](/galleries/monica-and-the-explosions-selects/index.html)
 
-[All Images](/galleries/monica-and-the-explosions-all/)
+[All Images](/galleries/monica-and-the-explosions-all/index.html)
