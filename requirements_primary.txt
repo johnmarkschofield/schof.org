@@ -5,7 +5,7 @@ pelican
 s3cmd
 
 # At present used only to invalidate the CloudFront cache.
-# awscli
+awscli
 
 # The deployment tool we use to generate and publish the website
 invoke
@@ -16,4 +16,6 @@ markdown
 # Maybe not needed?
 # html-parser
 # requests
-# html5lib
+
+# Required for simple_footnotes
+html5lib

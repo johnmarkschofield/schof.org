@@ -22,6 +22,8 @@ TIMEZONE = u'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 THEME = u'gum'  # Clean, easy-to-read. Responsive. Good cat & tag support.
 
+# DEFAULT_PAGINATION = False
+
 DEFAULT_PAGINATION = 10
 DEFAULT_ORPHANS = 2
 
@@ -31,7 +33,8 @@ DEFAULT_ORPHANS = 2
 # )
 
 PAGINATION_PATTERNS = (
-    (0, u'{name}{number}{extension}', u'{name}{number}{extension}'), )
+    (1, '{url}', '{save_as}'),
+    (2, u'{name}{number}{extension}', u'{name}{number}{extension}'), )
 
 CURRENT_YEAR = datetime.now().year
 
