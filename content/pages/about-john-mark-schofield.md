@@ -15,16 +15,11 @@ behavior is just as important in technology as it is everywhere else.
 
 I am a craftsman. I aspire to be a great one.
 
-I am a DevOps Engineer for Metacloud (now part of Cisco) working on the
-infrastructure for private cloud deployments using OpenStack.
-
-All opinions on this site are mine (unless otherwise noted) and are not
-necessarily shared by Cisco, Metacloud, or any other person or entity.
-
-I live in Tarzana with my wonderful wife M. and daughter H.
-
 I'm also a writer, a poet, an amateur photographer, (putting "amateur"
 in front of "poet" is kind of redundant) an avid hiker, world traveler,
 student of Spanish and French, martial-arts and firearms enthusiast, and
 occasionally, a decent cook. You can [get in touch with me
 here.](/contact "Contact John Mark Schofield")
+
+All opinions on this site are mine (unless otherwise noted) and are not
+necessarily shared by any other person or entity.
