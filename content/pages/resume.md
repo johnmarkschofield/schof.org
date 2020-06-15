@@ -1,6 +1,7 @@
 Title: Résumé
 Date: 2007-09-06 21:00
 TopMenu: True
+Status: draft
 
 My resume is available in the following formats:
 
