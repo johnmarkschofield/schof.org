@@ -5,16 +5,15 @@ pelican
 s3cmd
 
 # At present used only to invalidate the CloudFront cache.
-awscli
+# awscli
 
 # The deployment tool we use to generate and publish the website
 invoke
 
 # Required by our config but not specified elsewhere:
 markdown
-#HTMLParser
-# Python3 should not use this package
 
-html-parser
-requests
-html5lib
+# Maybe not needed?
+# html-parser
+# requests
+# html5lib
