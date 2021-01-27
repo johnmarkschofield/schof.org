@@ -6,3 +6,7 @@ content/galleries/
 .DS_Store
 localprivateconf.py
 secrets.bash
+.aws
+.s3cfg
+.vagrant
+*.log

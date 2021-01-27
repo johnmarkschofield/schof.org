@@ -1,5 +1,5 @@
 Title: Empty Hands
-Date: 2017-01-04 09:12:28 PST
+Date: 2017-01-04 09:12:28
 Status: draft
 
 

@@ -10,4 +10,4 @@ from commonconf import *  # noqa
 from localconf import *  # noqa
 
 # Seems to be broken in python3
-# PLUGINS.append('w3c_validate')
+PLUGINS.append('w3c_validate')

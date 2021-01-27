@@ -19,6 +19,6 @@ If Bob and Mark are having sex (you don't know) they're doing it in
 their bedroom, with the blinds drawn. What's your problem? If your kids
 ask, just say they're roommates.
 
-Is your marriage going to disolve because of this? Will your children
+Is your marriage going to dissolve because of this? Will your children
 start howling at the moon? Your wife leave you for a female tennis pro?
 You become a hairdresser? Didn't think so.

@@ -26,4 +26,4 @@ TAG_FEED_RSS = None
 
 FEED_MAX_ITEMS = 999
 
-SITEURL = u'https://schof.org'
+SITEURL = u''

@@ -1,5 +1,5 @@
 Title: When to Leave
-Date: 2016-12-08 12:21:13 PST
+Date: 2016-12-08 12:21:13
 Tags: fascism,resistance
 
 I've been spending a lot of time thinking about the possibility of Fascism or Authoritarianism in the United States, and what that means for my plans to remain in the country. I don't want to overreact, and I don't think it's inevitable that this country will descend into fascism &mdash; but I believe now that it's possible.

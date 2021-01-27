@@ -69,10 +69,17 @@ FEED_DOMAIN = u'https://schof.org'
 SLUGIFY_SOURCE = u"basename"
 
 PLUGIN_PATHS = [
-    os.path.expandvars(u'$HOME/code/others/pelican-plugins')]
+    os.path.expandvars(u'/vagrant/pelican-plugins')]
 
-PLUGINS = [u'sitemap', u'simple_footnotes', u'render_math']
+PLUGINS = [u'sitemap', u'simple_footnotes', u'render_math', u'photos']
 # GZIP_CACHE_OVERWRITE = False
+
+PHOTO_LIBRARY = "/vagrant/content/media"
+PHOTO_EXIF_KEEP = True
+PHOTO_EXIF_REMOVE_GPS = True
+PHOTO_EXIF_COPYRIGHT = "COPYRIGHT"
+PHOTO_EXIF_COPYRIGHT_AUTHOR = "John Mark Schofield"
+
 
 SITEMAP = {
     u'format': u'xml',

@@ -7,9 +7,9 @@ SCHOFORGDIR="\~/code/me/schof.org"
 
 
 cd $SCHOFORGDIR
-rmvirtualenv schof.org
-mkvirtualenv schof.org -a `pwd`
-pip install -r requirements_primary.txt
+./buildboxvm_start.bash
 
+vagrant ssh
+cd /vagrant
 inv build  # to build
 inv publish  # push to live site
