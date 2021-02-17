@@ -32,7 +32,7 @@ def localclean(c):
 def build(c):
     """Build it all."""
     theme_path = os.path.join(os.getcwd(), 'pelican-themes/gum/')
-    c.run('sudo pelican-themes -s %s' % theme_path)
+    c.run('pelican-themes -s %s' % theme_path)
     c.run('pelican -s buildconf.py')
 
 
