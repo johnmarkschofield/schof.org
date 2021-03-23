@@ -6,8 +6,6 @@ import os.path
 
 from invoke import task
 
-from localprivateconf import *  # noqa
-
 OUTPUT_DIR = "output"
 CACHE_DIR = "cache"
 LOCAL_HOST = "http://localhost:8000"
@@ -31,9 +29,12 @@ def localclean(c):
 @task
 def build(c):
     """Build it all."""
-    theme_path = os.path.join(os.getcwd(), 'pelican-themes/gum/')
-    c.run('pelican-themes -s %s' % theme_path)
+    # Fixme: I ran this manually once.
+    # theme_path = os.path.join(os.getcwd(), 'pelican-themes/gum/')
+    # c.run('pelican-themes -s %s' % theme_path)
     c.run('pelican -s buildconf.py')
+    c.run('find /home/schof/schof.org -type d -exec chmod o+rx {} \;')
+    c.run('chmod -R a+r /home/schof/schof.org/output')
 
 
 @task
@@ -84,15 +85,27 @@ def clearcloudfrontcache(c):
 @task
 def publish(c):
     """Publish."""
+
     build(c)
+
     c.run(
         's3cmd ' +
         '--no-preserve --rr ' +
         '--delete-removed ' +
-        '--mime-type="text/html" ' +
         '--guess-mime-type ' +
+        '--default-mime-type="text/css" ' +
         '--add-header="Cache-Control:max-age=%s" ' % CACHE_SECONDS +
         'sync output/ s3://schof.org/')
+
+    # For some reason stuff.css was getting the wrong mime type.
+    c.run(
+        's3cmd -f ' +
+        '--no-preserve --rr ' +
+        '--mime-type="text/css" ' +
+        '--no-guess-mime-type ' +
+        '--add-header="Cache-Control:max-age=%s" ' % CACHE_SECONDS +
+        'put output/theme/*.css s3://schof.org/theme/')
+
     clearcloudfrontcache(c)
 
 
