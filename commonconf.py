@@ -8,6 +8,7 @@ AUTHOR = u'John Mark Schofield'
 SITENAME = u'schof.org'
 SITESUBTITLE = u'A journal of learning and doing'
 PATH = u'content'
+CHECKOUT_DIR = u"/srv/schof.org/"
 
 STATIC_PATHS = [
     u'wp-content',
@@ -69,16 +70,16 @@ FEED_DOMAIN = u'https://schof.org'
 SLUGIFY_SOURCE = u"basename"
 
 PLUGIN_PATHS = [
-    os.path.expandvars(u'/vagrant/pelican-plugins')]
+    os.path.join(CHECKOUT_DIR, u'pelican-plugins')]
 
 PLUGINS = [u'sitemap', u'simple_footnotes', u'render_math', u'photos']
 # GZIP_CACHE_OVERWRITE = False
 
-PHOTO_LIBRARY = "/vagrant/content/media"
+PHOTO_LIBRARY = u"/home/schof/schof.org/content/media"
 PHOTO_EXIF_KEEP = True
 PHOTO_EXIF_REMOVE_GPS = True
-PHOTO_EXIF_COPYRIGHT = "COPYRIGHT"
-PHOTO_EXIF_COPYRIGHT_AUTHOR = "John Mark Schofield"
+PHOTO_EXIF_COPYRIGHT = u"COPYRIGHT"
+PHOTO_EXIF_COPYRIGHT_AUTHOR = u"John Mark Schofield"
 
 
 SITEMAP = {
