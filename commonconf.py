@@ -11,7 +11,6 @@ PATH = u'content'
 CHECKOUT_DIR = u"/srv/schof.org/"
 
 STATIC_PATHS = [
-    u'wp-content',
     u'media',
     u'non-media-assets',
     u'galleries',
