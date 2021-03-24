@@ -75,7 +75,7 @@ PLUGIN_PATHS = [
 PLUGINS = [u'sitemap', u'simple_footnotes', u'render_math', u'photos']
 # GZIP_CACHE_OVERWRITE = False
 
-PHOTO_LIBRARY = u"/home/schof/schof.org/content/media"
+PHOTO_LIBRARY = u"/srv/schof.org/content/media"
 PHOTO_EXIF_KEEP = True
 PHOTO_EXIF_REMOVE_GPS = True
 PHOTO_EXIF_COPYRIGHT = u"COPYRIGHT"
