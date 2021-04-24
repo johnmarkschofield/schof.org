@@ -11,6 +11,8 @@ CACHE_DIR = "cache"
 LOCAL_HOST = "http://localhost:8000"
 CACHE_SECONDS = 600
 CHECKOUT_DIR = "/srv/schof.org/"
+BUILD_DIR = os.path.join(CHECKOUT_DIR, OUTPUT_DIR)
+PUBLISH_DIR = "/var/www/schof.org"
 
 
 @task
@@ -35,45 +37,11 @@ def build(c):
     theme_path = os.path.join(CHECKOUT_DIR, 'pelican-themes/gum/')
     c.run('pelican-themes -s %s' % theme_path)
     c.run('pelican -s buildconf.py')
-    # c.run('find /home/schof/schof.org -type d -exec chmod o+rx {} \;')
-    # c.run('chmod -R a+r /home/schof/schof.org/output')
 
 
 @task
-def rebuild(c):
-    """Clean and build."""
-    localclean(c)
-    build(c)
-
-
-# @task
-# def publish(c):
-#     """Publish."""
-
-#     build(c)
-
-#     c.run(
-#         's3cmd ' +
-#         '--no-preserve --rr ' +
-#         '--delete-removed ' +
-#         '--guess-mime-type ' +
-#         '--default-mime-type="text/css" ' +
-#         '--add-header="Cache-Control:max-age=%s" ' % CACHE_SECONDS +
-#         'sync output/ s3://schof.org/')
-
-#     # For some reason stuff.css was getting the wrong mime type.
-#     c.run(
-#         's3cmd -f ' +
-#         '--no-preserve --rr ' +
-#         '--mime-type="text/css" ' +
-#         '--no-guess-mime-type ' +
-#         '--add-header="Cache-Control:max-age=%s" ' % CACHE_SECONDS +
-#         'put output/theme/*.css s3://schof.org/theme/')
-
-#     clearcloudfrontcache(c)
-
-
-# @task
-# def validate(c):
-#     """Not working yet."""
-#     c.run('pelican --debug -s validateconf.py')
+def publish(c):
+    """Publish."""
+    c.run('mv %s %s.old' % (PUBLISH_DIR, PUBLISH_DIR))
+    c.run('mkdir -p %s' % PUBLISH_DIR)
+    c.run('cp -al /srv/schof.org/output %s' % PUBLISH_DIR)
