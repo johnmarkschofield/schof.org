@@ -3,7 +3,7 @@ Date: 2021-09-14 15:51
 Tags: personal_finance, software, Saas, review
 
 
-The value I get from You Need A Budget (YNAB) for managing my personal finances is immense. I really like the mental model of putting money aside for specific future expenses, and it causes my savings rate to be significantly higher. If you're trying to manage your budget to reduce your expenses and save more money, I can't recommend YNAB highly enough.
+The value I get from [You Need A Budget](https://www.youneedabudget.com) (YNAB) for managing my personal finances is immense. I really like the mental model of putting money aside for specific future expenses, and it causes my savings rate to be significantly higher. If you're trying to manage your budget to reduce your expenses and save more money, I can't recommend YNAB highly enough.
 
 YNAB is probably my least-favorite software that I use daily. This review could probably end there. I get tremendous value from YNAB and recommend it to others, but there's so much about it I just haaaaaaaaaaaate.
 
