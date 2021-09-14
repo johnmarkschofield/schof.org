@@ -35,14 +35,14 @@ def build(c):
     """Build it all."""
     c.run('cd %s' % CHECKOUT_DIR)
     theme_path = os.path.join(CHECKOUT_DIR, 'themes_place/gum/')
-    c.run('pelican-themes -s %s' % theme_path)
+    c.run('pelican-themes -i %s' % theme_path)
     c.run('pelican -s buildconf.py')
 
 
 @task
 def publish(c):
     """Publish."""
-    c.run('mv %s %s.old' % (PUBLISH_DIR, PUBLISH_DIR))
     c.run('mkdir -p %s' % PUBLISH_DIR)
+    c.run('mv %s/ %s.old/' % (PUBLISH_DIR, PUBLISH_DIR))
     c.run('cp -al /srv/schof.org/output %s' % PUBLISH_DIR)
-    c.run('rm -rf %s' % PUBLISH_DIR.old)
+    c.run('rm -rf %s.old' % PUBLISH_DIR)
