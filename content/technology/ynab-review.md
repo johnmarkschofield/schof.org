@@ -1,4 +1,11 @@
-YNAB is probably my least-favorite software that I use almost every day. This review could probably end there. I get tremendous value from YNAB and recommend it to others, but there's so much about it I just haaaaaaaaaaaate.
+Title: You Need A Budget Review
+Date: 2021-09-14 15:51
+Tags: personal_finance, software, Saas, review
+
+
+The value I get from You Need A Budget (YNAB) for managing my personal finances is immense. I really like the mental model of putting money aside for specific future expenses, and it causes my savings rate to be significantly higher. If you're trying to manage your budget to reduce your expenses and save more money, I can't recommend YNAB highly enough.
+
+YNAB is probably my least-favorite software that I use daily. This review could probably end there. I get tremendous value from YNAB and recommend it to others, but there's so much about it I just haaaaaaaaaaaate.
 
 There are two root causes for almost all of my unhappiness with YNAB: It is brittle and it feels unstable and uncertain.
 
@@ -12,7 +19,7 @@ I think the root cause of this is not YNAB's fault -- it's the banks with antiqu
 
 I do want to point out one thing the folks at YNAB could fix and certainly are responsible for -- when they know a financial institution won't work, they should tell you! I was doing a zoom demo of YNAB to a friend I had evangelized it to, and we thought we had successfully connected his bank. There were no transactions, but ... I assured him they would start showing up. But they didn't, and they didn't, and then we found on the status page that transactions with this bank were not working for a vast majority of customers and had not been for months. Obviously my friend didn't keep using YNAB, and I was really frustrated with how much of our time this had wasted. If we'd been told off the bat "You're probably going to have to manually enter transactions" we could have saved time and felt better about YNAB.
 
-This leads me to the second major problem, which is entirely within YNAB's control -- it just doesn't feel stable. YNAB started out as a spreadsheet, but I knew it first as a standalone Mac app that was simply excellent. I'm sure there's faults that I've forgotten, but I remember it as a solid, stable and delightful.
+This leads me to the second major problem, which is entirely within YNAB's control -- it just doesn't feel stable. YNAB started out as a spreadsheet, but I knew it first as a standalone Mac app that was simply excellent. I'm sure there were faults that I've forgotten, but I remember it as solid, stable and delightful.
 
 YNAB has switched from a model where you purchase software that you download and run on your computer to a SaaS model, where you use YNAB on their website, and pay a subscription. I Have no objection to the subscription, but the switch to SaaS has not been smooth. They had significant scaling problems at launch, specifically about their ability to ingest their desktop application's files as part of a one-time conversion. I remember this taking months to resolve, but scaling is hard, and I don't know enough to have an opinion on their design choices.
 
@@ -24,7 +31,7 @@ Look at downloading transactions from financial institutions. This is not predic
 
 If you haven't used it for a few weeks though, it can show "no new transactions" for 45 minutes or more before they work their way through the queue and actually check for new data.
 
-And telling you that there's updates is a little wonky too. There's a little white ball to the left of an account name that shows up when there are transactions that need to be approved. The appearance of that white ball seemed almost random, though, because what's supposed to happen is that you click the account with the white ball, and then on that account screen there's a header bar that tells you there's X new transactions to import. Clicking the header shows you the list of transactions to approve. Lots of times that header bar isn't there. 
+And telling you that there's updates is a little wonky too. There's a little white ball to the left of an account name that shows up when there are transactions that need to be approved or that need to be imported. What's supposed to happen is that you click the account with the white ball, and then on that account screen there's a header bar that tells you there's X new transactions to import. Clicking the header shows you the list of transactions to approve. Lots of times that header bar isn't there. 
 
 Only recently did I realize there's a little "import" button near the top of the screen and it's **optional.** If you never press it, eventually the transactions will be imported and you'll see the header bar announcing the new transactions. But if the white ball is lit up but the header bar is not there, you can press the "import" button and it will import the new transactions. Most of the time. Sometimes the white ball won't go away no matter what you do. I strongly suspect that I have not captured how this whole white-dot-import business works internally -- I suspect the state machine here is very complicated.
 
@@ -34,42 +41,4 @@ YNAB publishes a metric called "Age of Money" which is supposed to be how long y
 
 However, how your AoM is updated isn't OK. You'd think that you enter a transaction, and your AoM updates. Nope. It updates when it updates. This seems to be a queued job that executes every couple of days. Frequency seems to vary between 1.5 and 3 days between updates.
 
-
-Opened account April 14.
-
-Friday, May 7, 2021 @ 2:40:25 PM -- 20 days AoM
-Saturday, May 8, 2021 @ 2:26:42 PM -- 20 days AoM
-Saturday, May 8, 2021 @ 8:54:51 PM -- 21 days AoM
-Monday, May 10, 2021 @ 10:02:07 AM -- 21 days AoM
-Wednesday, May 12, 2021 @ 2:35:40 PM -- 24 days AoM
-Friday, May 14, 2021 @ 10:06:48 AM -- 25 days AoM
-Saturday, May 15, 2021 @ 10:25:34 AM -- 25 days AoM
-Monday, May 17, 2021 @ 12:34:52 PM -- 28 days AoM
-Monday, May 17, 2021 @ 7:11:38 PM -- 29 days AoM
-Tuesday, May 18, 2021 @ 10:56:19 AM -- 30 days AoM
-Thursday, May 20, 2021 @ 9:09:11 PM -- 30 days AoM
-Friday, May 21, 2021 @ 7:05:51 PM -- 33 days AoM
-Monday, May 24, 2021 @ 6:49:30 PM -- 33 days AoM
-Tuesday, May 25, 2021 @ 1:44:08 PM -- 12 days AoM (WTF?)
-Tuesday, May 25, 2021 @ 9:32:20 PM -- 34 days AoM
-Wednesday, May 26, 2021 @ 8:49:43 AM -- 35 days AoM
-Friday, May 28, 2021 @ 10:43:19 AM -- 35 days AoM
-Friday, May 28, 2021 @ 8:54:11 PM -- 35 days AoM
-Saturday, May 29, 2021 @ 10:19:52 AM -- 35 days AoM
-Saturday, May 29, 2021 @ 8:24:20 PM -- 35 days AoM
-Sunday, May 30, 2021 @ 1:16:41 PM -- 35 days
-Monday, May 31, 2021 @ 11:55:04 PM -- 35 days AoM
-Tuesday, June 1, 2021 @ 12:37:38 AM -- 37 days AoM
-Tuesday, June 1, 2021 @ 10:55:55 AM -- 39 days
-Thursday, June 3, 2021 @ 10:37:40 AM -- 46 days
-Saturday, June 5, 2021 @ 10:02:53 AM -- 46 days
-Monday, June 7, 2021 @ 9:32:40 AM -- 35 days ???
-Monday, June 7, 2021 @ 9:49:57 AM -- 47 days
-Monday, June 7, 2021 @ 10:57:32 PM -- 35 days
-Tuesday, June 8, 2021 @ 10:48:52 AM -- 47 days
-Tuesday, June 8, 2021 @ 10:51:02 AM -- had to reauthorize amazon synchrony card for some reason
-Tuesday, June 8, 2021 @ 10:55:11 AM -- 52 days
-Wednesday, June 9, 2021 @ 9:51:12 AM -- 53 days
-Friday, June 11, 2021 @ 12:14:58 PM -- 54
-Saturday, June 12, 2021 @ 9:04:13 PM -- 54
-Thursday, June 17, 2021 @ 1:19:41 PM -- 56
+All of this is very frustrating and if there was anything I liked better than YNAB I'd switch in a heartbeat. But there doesn't seem to be anything better.
