@@ -33,7 +33,8 @@ I'm now preparing my packing list, to make sure I have everything I need to stan
 * Swimsuit
 * Insulated Water Bottle
 * Insulated Coffee holder
-* Sunglasses
+* Sunglasses (Prescription, with strap)
+* Glasses (Prescription, with strap)
 * [Ski Goggles](https://www.rei.com/product/122149/smith-knowledge-otg-snow-goggles)
 
 [Carry-On Bag](https://www.rei.com/product/168622/cotopaxi-allpa-35-l-travel-pack):
