@@ -2,7 +2,7 @@ Title: Sailing To Svalbard -- Packing List
 Date: 2022-04-29 16:26
 Tags: sailing, arctic, boating
 
-In June of 2022, I will sail from Tromsó in northern Norway to Longyearbyen, in the Svalbard archipelago, Norway. Both Tromsó and Longyearbyen are above the Arctic Circle, and at that time of year, the sun will not go down for the entire trip. I will be a crew member on [Isbjórn](https://www.59-north.com/isbjorn), a 1922 Swan 48. It's fitting that Isbjórn and I were born in the same year -- I'll turn 50 shortly after this trip ends.
+In June of 2022, I will sail from Tromsó in northern Norway to Longyearbyen, in the Svalbard archipelago, Norway. Both Tromsó and Longyearbyen are above the Arctic Circle, and at that time of year, the sun will not go down for the entire trip. I will be a crew member on [Isbjórn](https://www.59-north.com/isbjorn), a 1972 Swan 48. It's fitting that Isbjórn and I were born in the same year -- I'll turn 50 shortly after this trip ends.
 
 [These guys](https://www.youtube.com/watch?v=ci6xWTKkhRo) also sailed from Northern Norway to Svalbard, but they're considerably more athletic than I am.
 
@@ -10,7 +10,7 @@ I'm now preparing my packing list, to make sure I have everything I need to stan
 
 [Sea Bag](https://www.amazon.com/gp/product/B08PF4LKFK):
 
-* [Two Winter Caps](https://www.rei.com/rei-garage/product/195385/mountain-hardwear-caelum-dome-beanie-mens) (They said "make it warm and windproof" but WTF do I know.)
+* [Two Winter Caps](https://www.rei.com/rei-garage/product/195385/mountain-hardwear-caelum-dome-beanie-mens) (They said "make it warm and windproof" but WTF do I know? I got one wool and one fleece.)
 * [Balaklava](https://www.hellyhansen.com/en_us/hh-lifa-merino-balaclava-68083)
 * [Buff](https://www.hellyhansen.com/en_us/polartec-neck-67921)
 * [Warm Ski Mittens](https://www.rei.com/product/137833/hestra-gloves-army-leather-extreme-mittens)
