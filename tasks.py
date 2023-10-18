@@ -4,7 +4,7 @@
 import os
 import os.path
 
-from invoke import task
+from invoke.tasks import task
 
 OUTPUT_DIR = "output"
 CACHE_DIR = "cache"
@@ -33,10 +33,38 @@ def localclean(c):
 @task
 def build(c):
     """Build it all."""
-    c.run('cd %s' % CHECKOUT_DIR)
+    # c.run('cd %s' % CHECKOUT_DIR)
     theme_path = os.path.join(CHECKOUT_DIR, 'themes_place/gum/')
     c.run('pelican-themes -i %s' % theme_path)
     c.run('pelican -s buildconf.py')
+
+
+@task
+def laptopbuild(c):
+    """Build it all."""
+    theme_path = os.path.join(os.curdir, 'themes_place/gum/')
+    c.run('pelican-themes -i %s' % theme_path)
+    c.run('pelican -s localconf.py')
+
+
+@task
+def laptopserve(c):
+    """Serve locally on port 8000."""
+    c.run('pelican -rl -s localconf.py')
+
+
+@task
+def laptopclean(c):
+    """Clean local checkout of build artifacts."""
+    if os.path.isdir(OUTPUT_DIR):
+        c.run('rm -rf %s' % OUTPUT_DIR)
+        c.run('mkdir %s' % OUTPUT_DIR)
+
+    if os.path.isdir(CACHE_DIR):
+        c.run('rm -rf %s' % CACHE_DIR)
+        c.run('mkdir %s' % CACHE_DIR)
+
+    c.run('rm -f *.pyc')
 
 
 @task

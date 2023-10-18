@@ -5,14 +5,14 @@
 import os
 import sys
 sys.path.append(os.curdir)
+from commonconf import *  # pylint: disable=wildcard-import,unused-wildcard-import   # noqa
 
-from commonconf import *  # noqa
 
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-FEED_ALL_ATOM = u'feeds/all.atom.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 # CATEGORY_FEED_ATOM = u'feeds/{slug}.atom.xml'
 CATEGORY_FEED_ATOM = None
 FEED_RSS = None
@@ -26,4 +26,4 @@ TAG_FEED_RSS = None
 
 FEED_MAX_ITEMS = 999
 
-SITEURL = u''
+SITEURL = 'https://schof.org'

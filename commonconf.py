@@ -4,102 +4,102 @@
 from datetime import datetime
 import os.path
 
-AUTHOR = u'John Mark Schofield'
-SITENAME = u'schof.org'
-SITESUBTITLE = u'A journal of learning and doing'
-PATH = u'content'
-CHECKOUT_DIR = u"/srv/schof.org/"
+AUTHOR = 'John Mark Schofield'
+SITENAME = 'schof.org'
+SITESUBTITLE = 'A journal of learning and doing'
+PATH = 'content'
+CHECKOUT_DIR = "/srv/schof.org/"
 
 STATIC_PATHS = [
-    u'media',
-    u'non-media-assets',
-    u'galleries',
-    u'images']
+    'media',
+    'non-media-assets',
+    'galleries',
+    'images']
 
-READERS = {u'html': None}
+READERS = {'html': None}
 
-TIMEZONE = u'America/Los_Angeles'
-DEFAULT_LANG = u'en'
-THEME = u'gum'  # Clean, easy-to-read. Responsive. Good cat & tag support.
+TIMEZONE = 'America/Los_Angeles'
+DEFAULT_LANG = 'en'
+THEME = 'gum'  # Clean, easy-to-read. Responsive. Good cat & tag support.
 
 DEFAULT_PAGINATION = 10
 DEFAULT_ORPHANS = 2
 
 PAGINATION_PATTERNS = (
     (1, '{url}', '{save_as}'),
-    (2, u'{name}{number}{extension}', u'{name}{number}{extension}'), )
+    (2, '{name}{number}{extension}', '{name}{number}{extension}'), )
 
 CURRENT_YEAR = datetime.now().year
 
 DISPLAY_PAGES_ON_MENU = True
 
-PAGE_URL = u'{slug}'
-PAGE_SAVE_AS = u'{slug}'
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}'
 
-TAG_URL = u'tag/{slug}'
-TAG_SAVE_AS = u'tag/{slug}'
+TAG_URL = 'tag/{slug}'
+TAG_SAVE_AS = 'tag/{slug}'
 
-TAGS_SAVE_AS = u'tags'
+TAGS_SAVE_AS = 'tags'
 
-AUTHOR_URL = u''
-AUTHOR_SAVE_AS = u''
-AUTHORS_SAVE_AS = u''
+AUTHOR_URL = ''
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
 
 # AUTHOR_URL = 'author/{slug}'
 # AUTHOR_SAVE_AS = 'author/{slug}'
 # AUTHORS_SAVE_AS = 'authors'
 
-CATEGORY_URL = u'category/{slug}'
-CATEGORY_SAVE_AS = u'category/{slug}'
-CATEGORIES_SAVE_AS = u''
+CATEGORY_URL = 'category/{slug}'
+CATEGORY_SAVE_AS = 'category/{slug}'
+CATEGORIES_SAVE_AS = ''
 
-ARTICLE_URL = u'{date:%Y}/{date:%m}/{date:%d}/{slug}'
-ARTICLE_SAVE_AS = u'{date:%Y}/{date:%m}/{date:%d}/{slug}'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}'
 
-YEAR_ARCHIVE_SAVE_AS = u''
-MONTH_ARCHIVE_SAVE_AS = u''
-ARCHIVES_SAVE_AS = u'archives'
+YEAR_ARCHIVE_SAVE_AS = ''
+MONTH_ARCHIVE_SAVE_AS = ''
+ARCHIVES_SAVE_AS = 'archives'
 
 # YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/all'
 # MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/all'
 # ARCHIVES_SAVE_AS = 'archives'
 
-FEED_DOMAIN = u'https://schof.org'
+FEED_DOMAIN = 'https://schof.org'
 
-SLUGIFY_SOURCE = u"basename"
+SLUGIFY_SOURCE = "basename"
 
 PLUGIN_PATHS = [
-    os.path.join(CHECKOUT_DIR, u'pelican-plugins')]
+    os.path.join(CHECKOUT_DIR, 'pelican-plugins')]
 
-PLUGINS = [u'sitemap', u'simple_footnotes', u'render_math', u'photos']
+PLUGINS = ['sitemap', 'simple_footnotes', 'render_math', 'photos']
 # GZIP_CACHE_OVERWRITE = False
 
-PHOTO_LIBRARY = u"/srv/schof.org/content/media"
+PHOTO_LIBRARY = "/srv/schof.org/content/media"
 PHOTO_EXIF_KEEP = True
 PHOTO_EXIF_REMOVE_GPS = True
-PHOTO_EXIF_COPYRIGHT = u"COPYRIGHT"
-PHOTO_EXIF_COPYRIGHT_AUTHOR = u"John Mark Schofield"
+PHOTO_EXIF_COPYRIGHT = "COPYRIGHT"
+PHOTO_EXIF_COPYRIGHT_AUTHOR = "John Mark Schofield"
 
 
 SITEMAP = {
-    u'format': u'xml',
-    u'priorities': {
-        u'articles': 1,
-        u'indexes': 0.5,
-        u'pages': 0.5
+    "format": "xml",
+    "priorities": {
+        "articles": 0.99,
+        "indexes": 0.5,
+        "pages": 0.99
     },
-    u'changefreqs': {
-        u'articles': u'monthly',
-        u'indexes': u'daily',
-        u'pages': u'monthly'
+    "changefreqs": {
+        "articles": "daily",
+        "indexes": "hourly",
+        "pages": "daily"
     }
 }
 
 
 EXTRA_PATH_METADATA = {
-    u'non-media-assets/robots.txt': {u'path': 'urobots.txt'},
+    'non-media-assets/robots.txt': {'path': 'urobots.txt'},
 }
 
 LOAD_CONTENT_CACHE = True
-CHECK_MODIFIED_METHOD = u'mtime'
+CHECK_MODIFIED_METHOD = 'mtime'
 CACHE_CONTENT = True
