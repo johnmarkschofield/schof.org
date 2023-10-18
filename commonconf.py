@@ -11,7 +11,6 @@ PATH = 'content'
 CHECKOUT_DIR = "/srv/schof.org/"
 
 STATIC_PATHS = [
-    'media',
     'non-media-assets',
     'galleries',
     'images']
