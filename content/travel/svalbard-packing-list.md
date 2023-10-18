@@ -1,6 +1,7 @@
 Title: Sailing To Svalbard -- Packing List
 Date: 2022-04-29 16:26
 Tags: sailing, arctic, boating
+Status: draft
 
 In June of 2022, I will sail from Tromsó in northern Norway to Longyearbyen, in the Svalbard archipelago, Norway. Both Tromsó and Longyearbyen are above the Arctic Circle, and at that time of year, the sun will not go down for the entire trip. I will be a crew member on [Isbjórn](https://www.59-north.com/isbjorn), a 1972 Swan 48. It's fitting that Isbjórn and I were born in the same year -- Isbjórn turned 50 in April and I'll turn 50 shortly after this trip ends.
 
