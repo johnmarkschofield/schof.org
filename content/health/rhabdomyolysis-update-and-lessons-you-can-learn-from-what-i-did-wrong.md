@@ -7,8 +7,8 @@ Tags: exercise
 
 I hike and do martial arts training regularly, and consider myself in
 reasonably good shape. However, on Monday I started an exercise program
-with a local [Crossfit](http://crossfit.com/) affiliate, [Team
-Crossfit](http://www.teamcrossfit.com/).
+with a local [Crossfit](http://crossfit.com/) affiliate, Team
+Crossfit.
 
 This was an intense workout, but I've done intense (worse) workouts in
 the past, with no ill effects other than soreness. We did jumping
@@ -138,7 +138,7 @@ Right now I'm just a machine for turning IV fluids into urine, but I'm a
 damn lucky urine-producing machine, and I'm honored to be friends and
 loved ones with all of you.
 
-**Update Thursday, December 17, 6:15 AM:**  
+**Update Thursday, December 17, 6:15 AM:**
 In the middle of the night I started having shortness of breath, and we
 figured it was because we had put so much liquid in my body so quickly
 it was entering my lungs. From 11 AM to midnight I was on 1 liter an
@@ -319,4 +319,3 @@ released as soon as the attending physician sees me and signs off on it,
 and I'll need to drink a liter of water a day.
 
 WHOOOOOOOOOOOOOOOO!
-

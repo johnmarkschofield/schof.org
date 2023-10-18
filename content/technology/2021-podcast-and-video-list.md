@@ -6,7 +6,7 @@ Last week a friend asked what podcasts I listen to, and I thought it might be us
 
 ## Finance & Real Estate Podcasts
 
-* [The Fort with Chris Powers](https://podcasts.apple.com/us/podcast/the-fort-with-chris-powers/id1410549811): Great interviews with business and real estate people. Amazing guests. Chris is a prolific podcaster, so I find I have to be ruthless about skipping episodes on subjects that aren't central to my interests.
+* [The Fort with Chris Powers](https://podcasts.apple.com/us/podcast/the-fort-an-entrepreneurship-podcast/id1410549811): Great interviews with business and real estate people. Amazing guests. Chris is a prolific podcaster, so I find I have to be ruthless about skipping episodes on subjects that aren't central to my interests.
 
 ## Technology Podcasts
 

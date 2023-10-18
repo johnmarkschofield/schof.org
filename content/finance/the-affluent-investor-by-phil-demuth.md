@@ -3,7 +3,7 @@ Date: 2014-09-09 21:21
 Tags: financial competence step 6
 
 I just finished "[The Affluent
-Investor](http://www.amazon.com/Affluent-Investor-Phil-DeMuth-ebook/dp/B00BCK171S)"
+Investor](https://www.amazon.com/Affluent-Investor-Financial-Advice-Protect/dp/076416564X)"
 by Phil DeMuth. Phil defines "affluent" as having between $100,000 and
 $10,000,000 in assets. (Very high net-worth individuals have a
 different set of challenges that are not covered in this book.) I'm not
@@ -26,4 +26,3 @@ you're affluent now, it shouldn't be the first book on investing you
 read.)
 
 All in all, definitely a recommended-read.
-

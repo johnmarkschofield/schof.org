@@ -2,7 +2,7 @@ Title: Fixing Double-Click in Sublime Text
 Date: Thu, 2015-01-08 20:39
 Tags: productivity, programming, what i learned today, sublime text
 
-I love the fact that in [iTerm 2](http://iterm2.com/), double-clicking a GUID or an IP address selects it.
+I love the fact that in [iTerm 2](https://iterm2.com/), double-clicking a GUID or an IP address selects it.
 
 However, it's been really irritating that in [Sublime Text 3](http://www.sublimetext.com/), that doesn't happen. Double-clicking the "192" in "192.168.1.1" selects only the "192."
 

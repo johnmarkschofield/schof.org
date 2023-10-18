@@ -2,8 +2,7 @@ Title: Review of You Need A Budget
 Date: 2021-09-14 15:51
 Tags: personal_finance, software, Saas, review
 
-
-The value I get from [You Need A Budget](https://www.youneedabudget.com) (YNAB) for managing my personal finances is immense. I really like the mental model of putting money aside for specific future expenses, and it causes my savings rate to be significantly higher. If you're trying to manage your budget to reduce your expenses and save more money, I can't recommend YNAB highly enough.
+The value I get from [You Need A Budget](https://www.ynab.com) (YNAB) for managing my personal finances is immense. I really like the mental model of putting money aside for specific future expenses, and it causes my savings rate to be significantly higher. If you're trying to manage your budget to reduce your expenses and save more money, I can't recommend YNAB highly enough.
 
 YNAB is probably my least-favorite software that I use daily. This review could probably end there. I get tremendous value from YNAB and recommend it to others, but there's so much about it I just haaaaaaaaaaaate.
 
@@ -31,7 +30,7 @@ Look at downloading transactions from financial institutions. This is not predic
 
 If you haven't used it for a few weeks though, it can show "no new transactions" for 45 minutes or more before they work their way through the queue and actually check for new data.
 
-And telling you that there's updates is a little wonky too. There's a little white ball to the left of an account name that shows up when there are transactions that need to be approved or that need to be imported. What's supposed to happen is that you click the account with the white ball, and then on that account screen there's a header bar that tells you there's X new transactions to import. Clicking the header shows you the list of transactions to approve. Lots of times that header bar isn't there. 
+And telling you that there's updates is a little wonky too. There's a little white ball to the left of an account name that shows up when there are transactions that need to be approved or that need to be imported. What's supposed to happen is that you click the account with the white ball, and then on that account screen there's a header bar that tells you there's X new transactions to import. Clicking the header shows you the list of transactions to approve. Lots of times that header bar isn't there.
 
 Only recently did I realize there's a little "import" button near the top of the screen and it's **optional.** If you never press it, eventually the transactions will be imported and you'll see the header bar announcing the new transactions. But if the white ball is lit up but the header bar is not there, you can press the "import" button and it will import the new transactions. Most of the time. Sometimes the white ball won't go away no matter what you do. I strongly suspect that I have not captured how this whole white-dot-import business works internally -- I suspect the state machine here is very complicated.
 

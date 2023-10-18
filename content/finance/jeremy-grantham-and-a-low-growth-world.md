@@ -5,9 +5,8 @@ Tags: financial competence step 6
 In my [piece on the Four Percent
 Rule](/2013/01/17/investment-returns-the-four-percent-rule-and-your-personal-pucker-factor "The Four Percent Rule and Your Personal Pucker Factor"),
 I talked about Jeremy Grantham's November 2012 essay, "On the Road to
-Zero Growth[1. Available from the "[Jeremy Grantham's Letters and
-Articles](https://www.gmo.com/America/Library/Letters/)" section of
-the [GMO website](https://www.gmo.com/America/MyHome/), but only after
+Zero Growth[1. Available from the "Jeremy Grantham's Letters and
+Articles" section of the [GMO website](https://www.gmo.com/America/MyHome/), but only after
 you register. Registration is free.]. In that piece I listed some of the
 marvelous recommendations Grantham has received from the likes of Bogle
 and Bernstein.

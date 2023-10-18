@@ -35,7 +35,7 @@ I'm now preparing my packing list, to make sure I have everything I need to stan
 * [Ski Goggles](https://www.rei.com/product/122149/smith-knowledge-otg-snow-goggles)
 * Leatherman Multitool
 * Folding Marine Pocketknife
-* [Two Winter Caps](https://www.rei.com/rei-garage/product/195385/mountain-hardwear-caelum-dome-beanie-mens) (They said "make it warm and windproof" but WTF do I know? I got one wool and one fleece.)
+* [Two Winter Caps](https://www.rei.com/b/mountain-hardwear/c/mens-winter-hats) (They said "make it warm and windproof" but WTF do I know? I got one wool and one fleece.)
 * [Down Jacket](https://www.hellyhansen.com/en_us/verglas-hooded-down-insulator-63005)
 * [Fleece insulated pants](https://www.hellyhansen.com/en_us/daybreaker-fleece-pant-51742?color=290002&qu=DAYBREAKER+FLEECE+PANTS&ct=autosuggest_top_product)
 * Silk long underwear pants
@@ -71,7 +71,7 @@ I'm now preparing my packing list, to make sure I have everything I need to stan
 ## CPAP Bag
 
 * CPAP, CPAP hose, CPAP Power Cable
-* [CPAP Battery](https://www.amazon.com/gp/product/B08FBH34BR/)
+* [CPAP Battery](https://www.amazon.com/Freedom-Battery-Power-Compatible-AirSense/dp/B08FBHSBPF)
 
 ## On My Person
 

@@ -19,21 +19,21 @@ But since I'm not looking for a job, I want to 1) spend as little time
 dealing with recruiters as possible, and 2) not burn bridges. Here's
 what I do:
 
-In [Keyboard Maestro](http://www.keyboardmaestro.com/main/), I set up
+In [Keyboard Maestro](https://www.keyboardmaestro.com/main/), I set up
 the macro "recruiterreply;" to insert the following text:
 
 > Thanks very much for your interest! I'm happy and well-compensated at
 > my present job, and I'm not interested in a new position at this time.
 >
 > Let's keep in touch anyway. You can feel free to connect with me on
-> LinkedIn at https://www.linkedin.com/in/schof or visit
-> http://schof.org/resume to view my resume.
+> LinkedIn at <https://www.linkedin.com/in/schof> or visit
+> <http://schof.org/resume> to view my resume.
 >
 > Please note that all my friends in this field already have jobs, and I
 > can not refer any of them to you.
 >
-> Thanks very much!  
->  John Schofield
+> Thanks very much!
+> John Schofield
 
 That last paragraph is an important addition, as it eliminates the
 inevitable follow-up email from recruiters asking for leads.
@@ -43,7 +43,6 @@ Here's what that macro looks like in Keyboard Maestro:
 [![Screenshot
 2014-08-27
 11.18.44](/wp-content/uploads/2014/08/Screenshot-2014-08-27-11.18.44.png)](/wp-content/uploads/2014/08/Screenshot-2014-08-27-11.18.44.png)
-
 
 I don't feel bad at all in sending a boilerplate reply to recruiters, as
 most of them are simply doing mass-mailings to Linked-In accounts that

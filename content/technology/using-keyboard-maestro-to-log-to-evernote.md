@@ -7,8 +7,8 @@ find it hard to keep track sometimes, and I feel like I've forgotten
 things I should be putting on that list. (Yes, yes, OCD, I know.)
 
 I found the [Log To
-Evernote](http://www.keyboardmaestro.com/main/third-party-actions#LogToEvernote) 
-[Keyboard Maestro](http://www.keyboardmaestro.com/) action, and created
+Evernote](https://www.keyboardmaestro.com/main/third-party-actions#LogToEvernote)
+[Keyboard Maestro](https://www.keyboardmaestro.com/main/) action, and created
 a simple Keyboard Maestro macro  to prompt for a category and a text
 string of what I accomplished, and save them to an Evernote Text Note.
 Since Evernote and Keyboard Maestro are synced, this automatically works
@@ -16,8 +16,6 @@ on my desktop and my laptop.
 
 [![Screenshot 2014-08-26
 10.19.25](/wp-content/uploads/2014/08/Screenshot-2014-08-26-10.19.25.png)](/wp-content/uploads/2014/08/Screenshot-2014-08-26-10.19.25.png)
-
- 
 
 Here's what the entry screen looks like:
 

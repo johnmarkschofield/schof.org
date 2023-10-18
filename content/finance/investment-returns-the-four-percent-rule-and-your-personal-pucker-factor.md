@@ -113,9 +113,7 @@ growth metrics, viewed on a background of historical pricing.[ref]From
 Bernstein's Efficient Frontier article, "[Coming' Around
 Again?](http://www.efficientfrontier.com/ef/0adhoc/comin.htm)"[/ref]"
 
-In Jeremy Grantham's November 2012 essay, "On the Road to Zero Growth[ref]Available from the "[Jeremy Grantham's Letters and
-Articles](https://www.gmo.com/America/Library/Letters/)" section of
-the [GMO website](https://www.gmo.com/America/MyHome/), but only after
+In Jeremy Grantham's November 2012 essay, "On the Road to Zero Growth[ref]Available from the "Jeremy Grantham's Letters and Articles" section of the [GMO website](https://www.gmo.com/America/MyHome/), but only after
 you register. Registration is free.[/ref]," Mr. Grantham forecasts that GDP
 growth for the US is going to be about 1.4% a year, or 0.9% adjusted for
 inflation. (Specifically, he forecasts 0.9% a year through 2030,
@@ -127,15 +125,15 @@ happy waiting that long.[/ref]
 
 Grantham outlines a number of reasons for this:
 
--   Population growth in the US peaked at 1.5% a year in the 1970s.
+- Population growth in the US peaked at 1.5% a year in the 1970s.
     Today it is closer to 0.5%, and after adjusting for fewer
     hours worked per person, man-hours worked annually are likely to go
     up at only 0.2% a year.
--   Growth in productivity won't help us, either in manufacturing
+- Growth in productivity won't help us, either in manufacturing
     (growing nicely but too small a percentage of our economy) or
     services (not growing at all).
--   Rising resource costs as it gets more expensive to extract oil
--   Costs associated with climate change, mainly food prices and flood
+- Rising resource costs as it gets more expensive to extract oil
+- Costs associated with climate change, mainly food prices and flood
     damage.
 
 As we saw in our [Chapter 4
@@ -181,4 +179,3 @@ amount that your investments earn each year. That's the closest thing to
 a sure thing there is in finance, but it has the disadvantage of leaving
 all your money to your heirs. You may have more fun spending it down in
 your retirement.
-
