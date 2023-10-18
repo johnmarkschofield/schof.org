@@ -1,7 +1,6 @@
 Title: Sailing To Svalbard -- Packing List
 Date: 2022-04-29 16:26
 Tags: sailing, arctic, boating
-Status: draft
 
 In June of 2022, I will sail from Tromsó in northern Norway to Longyearbyen, in the Svalbard archipelago, Norway. Both Tromsó and Longyearbyen are above the Arctic Circle, and at that time of year, the sun will not go down for the entire trip. I will be a crew member on [Isbjórn](https://www.59-north.com/isbjorn), a 1972 Swan 48. It's fitting that Isbjórn and I were born in the same year -- Isbjórn turned 50 in April and I'll turn 50 shortly after this trip ends.
 
@@ -11,36 +10,36 @@ I'm now preparing my packing list, to make sure I have everything I need to stan
 
 ## [Sea Bag](https://www.amazon.com/gp/product/B08PF4LKFK)
 
-* [Balaklava](https://www.hellyhansen.com/en_us/hh-lifa-merino-balaclava-68083) PACKED
-* [Buff](https://www.hellyhansen.com/en_us/polartec-neck-67921) PACKED
-* [Warm Ski Mittens](https://www.rei.com/product/137833/hestra-gloves-army-leather-extreme-mittens) PACKED
-* [Waterproof Fisherman Gloves](https://www.palmflex.com/showa-atlas-465-double-dipped-pvc-gloves-with-removable-liner.html?category_id=1841) PACKED
-* [Warm Gloves](https://www.rei.com/product/197013/auclair-panorama-soft-shell-gloves-mens) PACKED
-* [Glove Liners](https://www.rei.com/product/191835/smartwool-liner-gloves) PACKED
-* 6 [Merino wool base-layer long-sleeve tops](https://www.hellyhansen.com/en_us/lifa-merino-midweight-crew-49364) PACKED
-* 6 [Merino wool base-layer bottoms](https://www.hellyhansen.com/en_us/lifa-merino-midweight-pant-49366) PACKED
-* [Wool Sweater](https://www.rei.com/product/123756/fjallraven-lada-sweater-mens) (In gray compression sack) PACKED
-* [Foul Weather Jacket](https://www.hellyhansen.com/en_us/aegir-race-jacket-33869?color=301324&qu=MEN%27S+ÆGIR+RACE+SAILING+JACKET&ct=autosuggest_top_product) PACKED
-* [Foul Weather Salopette](https://www.hellyhansen.com/en_us/aegir-race-salopette-33871) (Just learned what that was today) PACKED
-* [Warm Waterproof Sailing Boots](https://www.dubarry.com/Women/Footwear/Sailing-Boots/Ultima-ExtraFit-Sailing-Boot-Black?number=38590142)  PACKED
-* [Sleeping Bag Liner](https://www.rei.com/product/867059/sea-to-summit-adaptor-coolmax-traveller-sleeping-bag-liner-with-insect-shield) PACKED
-* [Sheepskin slippers for inside the boat](https://www.llbean.com/llb/shop/65637)  PACKED
-* [Thick Wool Socks](https://www.amazon.com/Darn-Tough-Merino-Cushion-Black/dp/B000XFZXYK), seven pairs PACKED
-* [Thin Silk Sock Liners] PACKED
-* Underwear 8 pairs PACKED
-* Swimsuit PACKED
-* Hiking / Travel Pants PACKED
-* Hiking / Travel Shirt PACKED
-* [Insulated Water Bottle](https://www.amazon.com/Hydro-Flask-Mouth-Water-Bottle/dp/B09BZ6HQ96) PACKED
-* [Insulated Coffee holder](https://www.amazon.com/dp/B074T6Z9T6/) I've had mine since 2016; it's amazing. PACKED
-* [Ski Goggles](https://www.rei.com/product/122149/smith-knowledge-otg-snow-goggles) PACKED
-* Leatherman Multitool PACKED
-* Folding Marine Pocketknife PACKED
-* [Two Winter Caps](https://www.rei.com/rei-garage/product/195385/mountain-hardwear-caelum-dome-beanie-mens) (They said "make it warm and windproof" but WTF do I know? I got one wool and one fleece.) PACKED
-* [Down Jacket](https://www.hellyhansen.com/en_us/verglas-hooded-down-insulator-63005) PACKED
-* [Fleece insulated pants](https://www.hellyhansen.com/en_us/daybreaker-fleece-pant-51742?color=290002&qu=DAYBREAKER+FLEECE+PANTS&ct=autosuggest_top_product) PACKED
-* Silk long underwear pants PACKED
-* Silk long underwear tops PACKED
+* [Balaklava](https://www.hellyhansen.com/en_us/hh-lifa-merino-balaclava-68083)
+* [Buff](https://www.hellyhansen.com/en_us/polartec-neck-67921)
+* [Warm Ski Mittens](https://www.rei.com/product/137833/hestra-gloves-army-leather-extreme-mittens)
+* [Waterproof Fisherman Gloves](https://www.palmflex.com/showa-atlas-465-double-dipped-pvc-gloves-with-removable-liner.html?category_id=1841)
+* [Warm Gloves](https://www.rei.com/product/197013/auclair-panorama-soft-shell-gloves-mens)
+* [Glove Liners](https://www.rei.com/product/191835/smartwool-liner-gloves)
+* 6 [Merino wool base-layer long-sleeve tops](https://www.hellyhansen.com/en_us/lifa-merino-midweight-crew-49364)
+* 6 [Merino wool base-layer bottoms](https://www.hellyhansen.com/en_us/lifa-merino-midweight-pant-49366)
+* [Wool Sweater](https://www.rei.com/product/123756/fjallraven-lada-sweater-mens) (In gray compression sack)
+* [Foul Weather Jacket](https://www.hellyhansen.com/en_us/aegir-race-jacket-33869?color=301324&qu=MEN%27S+ÆGIR+RACE+SAILING+JACKET&ct=autosuggest_top_product)
+* [Foul Weather Salopette](https://www.hellyhansen.com/en_us/aegir-race-salopette-33871) (Just learned what that was today)
+* [Warm Waterproof Sailing Boots](https://www.dubarry.com/Women/Footwear/Sailing-Boots/Ultima-ExtraFit-Sailing-Boot-Black?number=38590142)
+* [Sleeping Bag Liner](https://www.rei.com/product/867059/sea-to-summit-adaptor-coolmax-traveller-sleeping-bag-liner-with-insect-shield)
+* [Sheepskin slippers for inside the boat](https://www.llbean.com/llb/shop/65637)
+* [Thick Wool Socks](https://www.amazon.com/Darn-Tough-Merino-Cushion-Black/dp/B000XFZXYK), seven pairs
+* Thin Silk Sock Liners
+* Underwear 8 pairs
+* Swimsuit
+* Hiking / Travel Pants
+* Hiking / Travel Shirt
+* [Insulated Water Bottle](https://www.amazon.com/Hydro-Flask-Mouth-Water-Bottle/dp/B09BZ6HQ96)
+* [Insulated Coffee holder](https://www.amazon.com/dp/B074T6Z9T6/) I've had mine since 2016; it's amazing.
+* [Ski Goggles](https://www.rei.com/product/122149/smith-knowledge-otg-snow-goggles)
+* Leatherman Multitool
+* Folding Marine Pocketknife
+* [Two Winter Caps](https://www.rei.com/rei-garage/product/195385/mountain-hardwear-caelum-dome-beanie-mens) (They said "make it warm and windproof" but WTF do I know? I got one wool and one fleece.)
+* [Down Jacket](https://www.hellyhansen.com/en_us/verglas-hooded-down-insulator-63005)
+* [Fleece insulated pants](https://www.hellyhansen.com/en_us/daybreaker-fleece-pant-51742?color=290002&qu=DAYBREAKER+FLEECE+PANTS&ct=autosuggest_top_product)
+* Silk long underwear pants
+* Silk long underwear tops
 
 ## [Carry-On Bag](https://www.rei.com/product/168622/cotopaxi-allpa-35-l-travel-pack)
 
@@ -49,30 +48,30 @@ I'm now preparing my packing list, to make sure I have everything I need to stan
 
 ### Small Dry bag for electronics
 
-* iPhone Keyboard (Needs USB C charger) PACKED
-* [Rechargeable LED Headlamp x2 plus batteries x4](https://www.amazon.com/gp/product/B07RNMQC9Y/) (Needs USB Type-B Micro charger) PACKED
-* iPhone Stand PACKED
-* International plug adapter PACKED
-* USB A to Lightning cable PACKED
-* USB A to USB C cable PACKED
-* USB C to USB C cable PACKED
-* USB A to USB Type-B Micro cable x2 PACKED
-* Kindle Reader (Needs USB C charger) PACKED
+* iPhone Keyboard (Needs USB C charger)
+* [Rechargeable LED Headlamp x2 plus batteries x4](https://www.amazon.com/gp/product/B07RNMQC9Y/) (Needs USB Type-B Micro charger)
+* iPhone Stand
+* International plug adapter
+* USB A to Lightning cable
+* USB A to USB C cable
+* USB C to USB C cable
+* USB A to USB Type-B Micro cable x2
+* Kindle Reader (Needs USB C charger)
 
 ### Bathroom Kit
 
-* Sunscreen PACKED
-* Chapstick PACKED
-* Medications PACKED
-* Sleeping Mask PACKED
-* Earplugs PACKED
+* Sunscreen
+* Chapstick
+* Medications
+* Sleeping Mask
+* Earplugs
 
-### Camera Bag PACKED
+### Camera Bag
 
 ## CPAP Bag
 
-* CPAP, CPAP hose, CPAP Power Cable PACKED
-* [CPAP Battery](https://www.amazon.com/gp/product/B08FBH34BR/) PACKED
+* CPAP, CPAP hose, CPAP Power Cable
+* [CPAP Battery](https://www.amazon.com/gp/product/B08FBH34BR/)
 
 ## On My Person
 
