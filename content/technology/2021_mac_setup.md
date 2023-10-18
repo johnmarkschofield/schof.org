@@ -1,6 +1,7 @@
 Title: Setting Up A New Mac 2021 Edition
 Date: 2021-11-29 13:01
 Tags: apple, mac, productivity, desktop
+Status: Draft
 
 I like to take notes when I set up a new computer for myself. I just bought one of the new M1 Macbook Pro laptops, so now's as good a time as any to update my checklist.
 
@@ -29,8 +30,8 @@ I like to take notes when I set up a new computer for myself. I just bought one 
 * Zoom (Direct Download;  Sigh)
 * IINA media player
 * Synergy (Sigh)
-* Moom (https://manytricks.com/moom/)
-* Docker M1 Preview from https://docs.docker.com/docker-for-mac/apple-m1/
-* Kaleidoscope and ksdiff https://kaleidoscope.app/ksdiff2 (ksdiff directly/ Kaleidoscope from App Store)
+* Moom (<https://manytricks.com/moom/>)
+* Docker M1 Preview from <https://docs.docker.com/docker-for-mac/apple-m1/>
+* Kaleidoscope and ksdiff <https://kaleidoscope.app/ksdiff2> (ksdiff directly/ Kaleidoscope from App Store)
 * Keyboard Maestro
 * Soulver3 (Direct Download)
