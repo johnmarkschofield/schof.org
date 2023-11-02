@@ -23,4 +23,4 @@ I've come up with the following 11 benchmarks that I'm going to track about myse
 10. <span style="color:red">**Deadlift One-Rep Maximum:**</span> My goal is 2x my body weight, or 512 pounds. I can deadlift **430 pounds**.
 11. <span style="color:red">**Grip Strength:**</span> Goal is greater than 110 pounds in each hand. Currently my grip strength is **107 pounds in my left hand and 100 pounds in my right hand**.
 
-**Conclusion:** I'm doing relatively well to excellent in measurements related to strength. I need to work hard on my cardio in general, running ability, and on losing weight and eating healthier.
+**Conclusion:** I'm doing relatively well to excellent in measurements related to strength. I need to work hard on my cardio in general, running ability, and on losing weight and eating healthier. Next month I hope to have more categories in green (or at least moving in that direction).
