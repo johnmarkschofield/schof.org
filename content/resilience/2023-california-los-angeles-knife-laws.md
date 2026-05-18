@@ -12,22 +12,18 @@ This covers California, Los Angeles and nearby cities, Los Angeles County, and C
 
 Details follow, but here's the summary:
 
-  1. You may carry concealed or visible any folding knife with a blade shorter than 3 inches
+  1. You may carry concealed or visible any folding knife with a blade **shorter than 3 inches.** Visible pocket clips could be considered visible. A three-inch blade is **not** shorter than 3 inches.
   2. Unless you're going into a school or university of any kind, in which only blades shorter than 2.5 inches that do not lock are OK. (Basically, rules out any knife useful for defense.)
-  3. Unless you're going into a Los Angeles City facility, in which case no knifes of any kind are allowed.
-
-
-
-
+  3. Unless you're going into a Los Angeles City facility, in which case no knives of any kind are allowed.
 
 ### Los Angeles City
 
 #### [SEC. 55.10. CARRY KNIVES OR DAGGERS IN PLAIN VIEW PROHIBITED.](https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-137973)
 
-  * You may not carry (in plain view) any knife with a blade longer than 3 inches, or any ice pick, straight-edge razor, or similar.
-  * Exceptions are when you're carrying it for your job, or for recreation (camping, etc.) or for religious reasons.
-  * **Visible knives with blades less than 3 inches are OK.**
-  * Knives with blades greater than 3 inches but hidden are OK?
+* You may not carry (in plain view) any knife with a blade longer than 3 inches, or any ice pick, straight-edge razor, or similar.
+* Exceptions are when you're carrying it for your job, or for recreation (camping, etc.) or for religious reasons.
+* **Visible knives with blades less than 3 inches are OK.**
+* Knives with blades greater than 3 inches but hidden are OK?
 
 #### [SEC. 63.134. CITY PROPERTY AND FACILITIES – PROHIBITED ITEMS.](https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-357008)
 
@@ -44,11 +40,9 @@ Details follow, but here's the summary:
 * **Basically you can't take any weapon-ish thing into a City facility**
 * Only exception is if you're a cop; no recreation or job-related exceptions.
 
-
 #### [SEC. 63.44. REGULATIONS AFFECTING PARK AND RECREATION AREAS.](https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-159459)
 
 * Within any zoological garden located within a public park (oddly specific) you can not possess any knife with a blade longer than 3 inches.
-
 
 ### Los Angeles County
 
@@ -57,13 +51,13 @@ Details follow, but here's the summary:
 * You can not open-carry any knife with a blade of three inches or longer, any spring-blade, switch-blade, or snap-blade knife, any ice pick or straight-edge razor.
 * Normal exceptions for work- or recreation-related carrying.
 
-
 ### California
 
 #### [California’s Knife Laws – What You Need to Know](https://www.robertmhelfend.com/criminal-defense/californias-knife-laws/)
 
-Unfortunately I was unable to find direct links to regulations, but this summary was useful.
+[The American Knife & Tool Institute's California Page](https://www.akti.org/state-knife-laws/california/) has good information as well.
 
+Unfortunately I was unable to find direct links to regulations, but this summary was useful.
 
 * No switchblades with blade length longer than 2 inches.
 * Folding knives of any length are legal and may be carried concealed
@@ -72,4 +66,4 @@ Unfortunately I was unable to find direct links to regulations, but this summary
 Awesome, right? However, there's a lot of place-specific rules that get in the way.
 
 * You can not have any switchblade or a fixed-blade knife with a blade over four inches in a state or local public building.
-* In any school or university, you can't have a folding knife greater than 2.5 inches or a folding knife with a locking blade.
+* In **any** school or university, you can't have a folding knife greater than 2.5 inches or a folding knife with a locking blade.
